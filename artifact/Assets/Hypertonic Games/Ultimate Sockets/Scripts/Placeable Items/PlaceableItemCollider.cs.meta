@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 918fddab79109ab4eb2ec05dc7b58f87
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 299037
+  packageName: Ultimate Socket System
+  packageVersion: 1.1.2
+  assetPath: Assets/Hypertonic Games/Ultimate Sockets/Scripts/Placeable Items/PlaceableItemCollider.cs
+  uploadId: 715198

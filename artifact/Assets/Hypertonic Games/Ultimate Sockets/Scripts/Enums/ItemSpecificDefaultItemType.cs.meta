@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 65060fec0bbff3e4d860a8bc986f2d17
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 299037
+  packageName: Ultimate Socket System
+  packageVersion: 1.1.2
+  assetPath: Assets/Hypertonic Games/Ultimate Sockets/Scripts/Enums/ItemSpecificDefaultItemType.cs
+  uploadId: 715198

@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 93a14154cdd2c2d438d5482fa094599a, type: 3}
+  m_Name: Ultimate Socket Settings
+  m_EditorClassIdentifier: 
+  PlaceableItemTags: {fileID: 11400000, guid: b4ea4ec741e638140a1dc01314a5c9a4, type: 2}
+  PlaceableItemPosingDatas:
+  - ItemTag: Ball
+    PosingPrefab: {fileID: 1559482027177742100, guid: 68a3e0354e99a3c49b58941fd78c13e2, type: 3}
+  - ItemTag: Simple Cube
+    PosingPrefab: {fileID: 3569756179145293966, guid: 0f1196558e8cf0c4aa68dcbdd2bbb3c2, type: 3}
+  - ItemTag: Inset Cube
+    PosingPrefab: {fileID: 577360821651516848, guid: 7616200bc3391a941845b8c55a83ef5f, type: 3}
+  - ItemTag: Icosphere
+    PosingPrefab: {fileID: 7943096850765220004, guid: 923c88160d9bfe8449072275158416fd, type: 3}
+  - ItemTag: Pyramid
+    PosingPrefab: {fileID: 7410302940843978501, guid: 588736abd1af7d846b6b389b6d0c500b, type: 3}
+  - ItemTag: Torus
+    PosingPrefab: {fileID: 8045553874313078552, guid: 2ba665a813821454b961b1f3caf94db2, type: 3}

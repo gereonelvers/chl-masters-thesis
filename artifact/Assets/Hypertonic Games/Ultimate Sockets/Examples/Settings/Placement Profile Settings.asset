@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c0a3ab31fe0a584da64e4d8497fc860, type: 3}
+  m_Name: Placement Profile Settings
+  m_EditorClassIdentifier: 
+  SocketPlacementProfile:
+    ItemPlacementConfigs:
+    - Name: Simple Cube
+      PlacedPosition: {x: 0.000000029802322, y: 0.077, z: 0}
+      PlacedRotation: {x: 0.12279898, y: -0.34917244, z: 0.2868226, w: 0.88359034}
+      PlacedScale: {x: 0.05, y: 0.05, z: 0.05}
+    - Name: Inset Cube
+      PlacedPosition: {x: 0.000000029802322, y: 0.0626, z: 0}
+      PlacedRotation: {x: 0.09904541, y: -0.3696432, z: 0.23911726, w: 0.89239955}
+      PlacedScale: {x: 0.45, y: 0.45, z: 0.45}
+    - Name: Icosphere
+      PlacedPosition: {x: 0.000000029802322, y: 0.0931, z: 0}
+      PlacedRotation: {x: -0, y: -0, z: -0, w: 1}
+      PlacedScale: {x: 1, y: 1, z: 1}
+    - Name: Torus
+      PlacedPosition: {x: 0.000000029802322, y: 0.124, z: 0}
+      PlacedRotation: {x: -0, y: -0, z: 0.7933523, w: 0.60876286}
+      PlacedScale: {x: 1, y: 1, z: 1}
+    - Name: Pyramid
+      PlacedPosition: {x: 0, y: 0, z: 0}
+      PlacedRotation: {x: 0, y: 0, z: 0, w: 1}
+      PlacedScale: {x: 1, y: 1, z: 1}

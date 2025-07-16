@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ae258232cd461244796f97359068e75f
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 50217
+  packageName: Exporter Package
+  packageVersion: 1.4
+  assetPath: Assets/ImgSpc Exporters/Scripts/Internal/OpenInFileBrowser.cs
+  uploadId: 360982

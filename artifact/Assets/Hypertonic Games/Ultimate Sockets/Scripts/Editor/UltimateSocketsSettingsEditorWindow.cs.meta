@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: e363b307bea941942a0900f424ee98c0
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 299037
+  packageName: Ultimate Socket System
+  packageVersion: 1.1.2
+  assetPath: Assets/Hypertonic Games/Ultimate Sockets/Scripts/Editor/UltimateSocketsSettingsEditorWindow.cs
+  uploadId: 715198

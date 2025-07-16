@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: e3d813a745916644da27077c7d6feb3d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 299037
+  packageName: Ultimate Socket System
+  packageVersion: 1.1.2
+  assetPath: Assets/Hypertonic Games/Ultimate Sockets/Scripts/Placeable Items/Stacking/StackableItemController.cs
+  uploadId: 715198

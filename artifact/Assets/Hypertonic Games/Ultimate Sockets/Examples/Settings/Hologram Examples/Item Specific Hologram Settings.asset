@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 827c04fd24ff0bf4884abf0376c3f189, type: 3}
+  m_Name: Item Specific Hologram Settings
+  m_EditorClassIdentifier: 
+  HologramPrefabConfigs:
+  - ItemTag: Simple Cube
+    Prefab: {fileID: 3569756179145293966, guid: 1695fc01106e57d47a2d856e03bf8f34, type: 3}
+  - ItemTag: Inset Cube
+    Prefab: {fileID: 577360821651516848, guid: 60ea55e68f6286a48bd6f1b74f7af3e2, type: 3}
+  - ItemTag: Icosphere
+    Prefab: {fileID: 7410302940843978501, guid: 636f1d0d838beee48a6fa69503125006, type: 3}
+  - ItemTag: Torus
+    Prefab: {fileID: 7410302940843978501, guid: 636f1d0d838beee48a6fa69503125006, type: 3}
+  - ItemTag: Pyrmid
+    Prefab: {fileID: 7410302940843978501, guid: 636f1d0d838beee48a6fa69503125006, type: 3}
+  - ItemTag: Pyramid
+    Prefab: {fileID: 7410302940843978501, guid: 636f1d0d838beee48a6fa69503125006, type: 3}

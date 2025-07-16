@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7d2a4a274b07b48c08bbd31791a70741
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 50217
+  packageName: Exporter Package
+  packageVersion: 1.4
+  assetPath: Assets/ImgSpc Exporters/Scripts/Internal/Voxelizer/NBTWriter.cs
+  uploadId: 360982

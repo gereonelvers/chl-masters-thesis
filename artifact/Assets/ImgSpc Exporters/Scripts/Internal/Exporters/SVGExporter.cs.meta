@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b1f7758c01fc1424eb502cb124ad3949
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 50217
+  packageName: Exporter Package
+  packageVersion: 1.4
+  assetPath: Assets/ImgSpc Exporters/Scripts/Internal/Exporters/SVGExporter.cs
+  uploadId: 360982

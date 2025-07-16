@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9afef59b7276a437ab2944277c8ca7aa
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 50217
+  packageName: Exporter Package
+  packageVersion: 1.4
+  assetPath: Assets/ImgSpc Exporters/Scripts/Internal/ExportSettings.cs
+  uploadId: 360982

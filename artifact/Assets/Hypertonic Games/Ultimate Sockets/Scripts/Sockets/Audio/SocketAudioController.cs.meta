@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 55f393b5283a6c4418b450e4b0da38a3
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 299037
+  packageName: Ultimate Socket System
+  packageVersion: 1.1.2
+  assetPath: Assets/Hypertonic Games/Ultimate Sockets/Scripts/Sockets/Audio/SocketAudioController.cs
+  uploadId: 715198

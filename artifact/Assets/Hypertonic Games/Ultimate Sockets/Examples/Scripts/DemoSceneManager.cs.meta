@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 5c8b2995e4e1ab643ab2e15dedf7110e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 299037
+  packageName: Ultimate Socket System
+  packageVersion: 1.1.2
+  assetPath: Assets/Hypertonic Games/Ultimate Sockets/Examples/Scripts/DemoSceneManager.cs
+  uploadId: 715198
