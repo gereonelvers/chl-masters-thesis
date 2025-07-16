@@ -1,0 +1,32 @@
+newmtl big-cube-material-dark
+Kd 0.2 0.2 0.2
+map_Kd C:\CHL\chl-2\chl-1\Assets\CHL\grid-texture.png
+
+newmtl plank-material(Clone)_(Instance)
+Kd 1 1 1
+map_Kd C:\CHL\chl-2\chl-1\Assets\CHL\grid-texture.png
+
+newmtl plank-material(Clone)_(Instance)_1
+Kd 1 1 1
+map_Kd C:\CHL\chl-2\chl-1\Assets\CHL\grid-texture.png
+
+newmtl plank-material(Clone)_(Instance)_2
+Kd 1 1 1
+map_Kd C:\CHL\chl-2\chl-1\Assets\CHL\grid-texture.png
+
+newmtl big-cube-material(Clone)_(Instance)
+Kd 1 1 1
+map_Kd C:\CHL\chl-2\chl-1\Assets\CHL\grid-texture.png
+
+newmtl plank-material(Clone)_(Instance)_3
+Kd 1 1 1
+map_Kd C:\CHL\chl-2\chl-1\Assets\CHL\grid-texture.png
+
+newmtl plank-material(Clone)_(Instance)_4
+Kd 1 1 1
+map_Kd C:\CHL\chl-2\chl-1\Assets\CHL\grid-texture.png
+
+newmtl plank-material(Clone)_(Instance)_5
+Kd 1 1 1
+map_Kd C:\CHL\chl-2\chl-1\Assets\CHL\grid-texture.png
+

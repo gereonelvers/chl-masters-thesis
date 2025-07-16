@@ -1,0 +1,326 @@
+{
+  "0": {
+    "speaker": "HOST",
+    "words": "Thank you.",
+    "start": 1.888,
+    "end": 2.209
+  },
+  "1": {
+    "speaker": "jFYQhuSp",
+    "words": "So first, let's discuss.",
+    "start": 3.282,
+    "end": 5.118
+  },
+  "2": {
+    "speaker": "SAKl2Kyg",
+    "words": "Okay, so we should do something in the middle here, then just what do we do? You",
+    "start": 6.036,
+    "end": 13.22
+  },
+  "3": {
+    "speaker": "jFYQhuSp",
+    "words": "Just a small cube, so yeah, which is just a small cube. Yeah, and then you place one in the middle and then I think we need the second one on each side, right? Yeah, so maybe we started the cube in the middle. And then everyone works on one side. So what you're saying, we're going to try them, right? Yeah, I would say so. I mean, looks symmetrical, so if we place them",
+    "start": 14.016,
+    "end": 39.838
+  },
+  "4": {
+    "speaker": "jFYQhuSp",
+    "words": "Then you use the click event, right? I think this was very interesting.",
+    "start": 39.839,
+    "end": 43.697
+  },
+  "5": {
+    "speaker": "HOST",
+    "words": "Okay, so let’s start.",
+    "start": 43.944,
+    "end": 45.567
+  },
+  "6": {
+    "speaker": "HOST",
+    "words": "Yes, I can put someone in the middle and you can already put one to the side.",
+    "start": 46.049,
+    "end": 51.136
+  },
+  "7": {
+    "speaker": "HOST",
+    "words": "Okay, oh, wait, I haven’t even built this. What do I do now?",
+    "start": 51.277,
+    "end": 55.926
+  },
+  "8": {
+    "speaker": "HOST",
+    "words": "There’s nothing, you see. You can trick people to respond. Watch.",
+    "start": 56.043,
+    "end": 58.613
+  },
+  "9": {
+    "speaker": "HOST",
+    "words": "Are you looking, you know, at risk and testing the discussion?",
+    "start": 58.614,
+    "end": 61.699
+  },
+  "10": {
+    "speaker": "HOST",
+    "words": "Maybe it’s a whole very long time.",
+    "start": 64.745,
+    "end": 67.889
+  },
+  "11": {
+    "speaker": "jFYQhuSp",
+    "words": "I have thoughts about spontaneous situations.",
+    "start": 84.023,
+    "end": 89.75
+  },
+  "12": {
+    "speaker": "HOST",
+    "words": "They killed my project.",
+    "start": 90.391,
+    "end": 95.938
+  },
+  "13": {
+    "speaker": "SAKl2Kyg",
+    "words": "The tangent we started with, right? Nope.",
+    "start": 112.561,
+    "end": 115.546
+  },
+  "14": {
+    "speaker": "HOST",
+    "words": "Can you respond?",
+    "start": 115.585,
+    "end": 116.206
+  },
+  "15": {
+    "speaker": "HOST",
+    "words": "Chris, can you please let me know if it's a tangent?",
+    "start": 116.247,
+    "end": 118.63
+  },
+  "16": {
+    "speaker": "HOST",
+    "words": "Okay.",
+    "start": 118.673,
+    "end": 118.872
+  },
+  "17": {
+    "speaker": "jFYQhuSp",
+    "words": "Okay.",
+    "start": 119.314,
+    "end": 119.634
+  },
+  "18": {
+    "speaker": "jFYQhuSp",
+    "words": "Shall we spawn in at the same time?",
+    "start": 121.676,
+    "end": 123.948
+  },
+  "19": {
+    "speaker": "jFYQhuSp",
+    "words": "Spawn spot, all right.",
+    "start": 126.424,
+    "end": 129.717
+  },
+  "20": {
+    "speaker": "SAKl2Kyg",
+    "words": "Why do I have a teacher?",
+    "start": 130.951,
+    "end": 132.156
+  },
+  "21": {
+    "speaker": "jFYQhuSp",
+    "words": "I put one in the middle.",
+    "start": 134.761,
+    "end": 136.101
+  },
+  "22": {
+    "speaker": "SAKl2Kyg",
+    "words": "Yeah, yeah.",
+    "start": 136.703,
+    "end": 137.625
+  },
+  "23": {
+    "speaker": "jFYQhuSp",
+    "words": "That's your right one.",
+    "start": 137.724,
+    "end": 140.488
+  },
+  "24": {
+    "speaker": "jFYQhuSp",
+    "words": "Yeah.",
+    "start": 140.527,
+    "end": 141.148
+  },
+  "25": {
+    "speaker": "jFYQhuSp",
+    "words": "Thank you.",
+    "start": 154.556,
+    "end": 155.076
+  },
+  "26": {
+    "speaker": "jFYQhuSp",
+    "words": "One, two million years.",
+    "start": 158.897,
+    "end": 160.132
+  },
+  "27": {
+    "speaker": "SAKl2Kyg",
+    "words": "Just a small fee, right?",
+    "start": 162.744,
+    "end": 165.852
+  },
+  "28": {
+    "speaker": "SAKl2Kyg",
+    "words": "Nope.",
+    "start": 172.206,
+    "end": 172.9
+  },
+  "29": {
+    "speaker": "jFYQhuSp",
+    "words": "Thank you, thank you.",
+    "start": 174.428,
+    "end": 175.276
+  },
+  "30": {
+    "speaker": "jFYQhuSp",
+    "words": "We have to.",
+    "start": 188.248,
+    "end": 188.789
+  },
+  "31": {
+    "speaker": "jFYQhuSp",
+    "words": "I don't see my queue, like, I am ready.",
+    "start": 189.69,
+    "end": 193.192
+  },
+  "32": {
+    "speaker": "jFYQhuSp",
+    "words": "Maybe I.",
+    "start": 193.434,
+    "end": 194.293
+  },
+  "33": {
+    "speaker": "jFYQhuSp",
+    "words": "I had one too many kits on my side.",
+    "start": 194.415,
+    "end": 196.375
+  },
+  "34": {
+    "speaker": "jFYQhuSp",
+    "words": "I just deleted it, yeah, and it didn't spawn it.",
+    "start": 196.915,
+    "end": 199.86
+  },
+  "35": {
+    "speaker": "jFYQhuSp",
+    "words": "Like, price-wise, it should be okay.",
+    "start": 199.899,
+    "end": 202.766
+  },
+  "36": {
+    "speaker": "jFYQhuSp",
+    "words": "Then I just think you can always delete stuff, right?",
+    "start": 202.805,
+    "end": 210.383
+  },
+  "37": {
+    "speaker": "jFYQhuSp",
+    "words": "It should be placed as close as possible to the red thing.",
+    "start": 221.341,
+    "end": 225.375
+  },
+  "38": {
+    "speaker": "jFYQhuSp",
+    "words": "Then we have two planks and then we should be fine.",
+    "start": 230.752,
+    "end": 233.578
+  },
+  "39": {
+    "speaker": "jFYQhuSp",
+    "words": "Yeah, I don't like the plank on my side.",
+    "start": 233.978,
+    "end": 236.523
+  },
+  "40": {
+    "speaker": "SAKl2Kyg",
+    "words": "I'll expand another plank to help you out.",
+    "start": 236.543,
+    "end": 238.347
+  },
+  "41": {
+    "speaker": "jFYQhuSp",
+    "words": "Thank you.",
+    "start": 239.744,
+    "end": 240.228
+  },
+  "42": {
+    "speaker": "SAKl2Kyg",
+    "words": "Thank you, uh, that's my cue here.",
+    "start": 240.611,
+    "end": 242.452
+  },
+  "43": {
+    "speaker": "jFYQhuSp",
+    "words": "That's the cue, dude.",
+    "start": 243.074,
+    "end": 243.896
+  },
+  "44": {
+    "speaker": "jFYQhuSp",
+    "words": "Yes, I think that's the one.",
+    "start": 243.897,
+    "end": 245.379
+  },
+  "45": {
+    "speaker": "jFYQhuSp",
+    "words": "Yeah, maybe respawn on my side for some reason.",
+    "start": 245.38,
+    "end": 248.386
+  },
+  "46": {
+    "speaker": "jFYQhuSp",
+    "words": "Wow, what a great trip.",
+    "start": 263.932,
+    "end": 264.874
+  },
+  "47": {
+    "speaker": "jFYQhuSp",
+    "words": "It was nice, right?",
+    "start": 264.994,
+    "end": 266.397
+  },
+  "48": {
+    "speaker": "jFYQhuSp",
+    "words": "Yes, and also safe sleep, all.",
+    "start": 266.398,
+    "end": 268.499
+  },
+  "49": {
+    "speaker": "jFYQhuSp",
+    "words": "It's very cheap.",
+    "start": 268.819,
+    "end": 269.463
+  },
+  "50": {
+    "speaker": "SAKl2Kyg",
+    "words": "Minne?",
+    "start": 216.917,
+    "end": 217.767
+  },
+  "51": {
+    "speaker": "jFYQhuSp",
+    "words": "Tapa pehmeä.",
+    "start": 217.848,
+    "end": 218.738
+  },
+  "52": {
+    "speaker": "jFYQhuSp",
+    "words": "Right. Okay, shall we",
+    "start": 269.464,
+    "end": 271.026
+  },
+  "53": {
+    "speaker": "SAKl2Kyg",
+    "words": "say we're done? Yes. Okay, I think we're done. All right. You were...",
+    "start": 271.045,
+    "end": 274.772
+  }
+}

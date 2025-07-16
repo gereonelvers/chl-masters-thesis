@@ -1,0 +1,133 @@
+\chapter{Conclusion and Outlook}\label{chapter:conclusion-outlook}
+
+\section{Conclusion}
+
+This thesis investigated co-located human-human collaboration in industrial augmented reality environments through a Design Science Research approach, addressing a significant gap in understanding how AR systems can support shared-space collaborative work in manufacturing contexts. Through a systematic literature review, prototype development, and empirical evaluation, this research provides both theoretical insights and practical guidance for designing collaborative AR systems in industrial settings.
+
+\subsection{Primary Contributions}
+
+This research makes several important contributions to both academic knowledge and industrial practice:
+
+\paragraph{Systematic Classification of Industrial AR Collaboration}
+The PRISMA-compliant systematic literature review of 32 studies established a comprehensive taxonomy of collaborative AR applications in industrial contexts. Four distinct collaboration archetypes were identified: Knowledge Transfer and Expert Support (37.5\% of studies), Collaborative Creative Workflows, Precision Task Execution, and Dynamic Problem Solving with Digital Twins. This classification framework addresses the first research question and provides researchers and practitioners with a structured understanding of current approaches while identifying areas for future investigation.
+
+The empirical findings further refined this taxonomy by proposing a specialised "Co-located Industrial Assembly" sub-archetype within Collaborative Creative Workflows. This sub-archetype captures unique characteristics observed in shared-space manual assembly contexts, including spatial deixis patterns, movement synchronisation, template development behaviours, and resource optimisation priorities that distinguish it from other collaborative AR applications.
+
+\paragraph{Technical Architecture Solutions for Collaborative AR}
+The research artifact successfully demonstrated technical feasibility of co-located collaborative AR systems through a robust implementation using HoloLens 2 devices. Key technical achievements include sub-50ms response times through optimised networking architecture, precise spatial alignment via marker-based tracking systems achieving sub-millimetre calibration accuracy, and stable multi-user interaction despite hardware constraints.
+
+The implementation addresses the second research question by identifying and solving core technical challenges: hardware ergonomic limitations, spatial tracking accuracy requirements, network communication latency management, and system performance optimisation. While current AR hardware can support effective collaborative applications, the findings emphasise working within technological constraints rather than attempting to overcome them entirely.
+
+\paragraph{Counterintuitive Collaboration Dynamics}
+The empirical evaluation revealed several unexpected patterns that challenge conventional assumptions about collaborative AR design. Most significantly, silent collaboration achieved faster task completion than verbal communication (5.00 vs 10.72 minutes, p=0.025), demonstrating that well-designed constraints can focus collaborative effort more effectively than open-ended conditions.
+
+Additional findings include quality-speed independence across task variants, strong movement synchronisation between partners ($\rho$ = 0.737, p < 0.001), systematic development of reusable construction templates, and productive task ambiguity that enhanced rather than hindered collaboration effectiveness. These findings address the third research question and provide empirical evidence for design principles that prioritise constraint-driven efficiency over maximised communication capabilities.
+
+\paragraph{Methodological Contributions}
+The research demonstrates the value of Design Science Research methodology for investigating collaborative AR systems, successfully integrating literature synthesis, iterative artifact development, and comprehensive evaluation. The hybrid automated-manual screening approach for systematic review, employing large language models for initial filtering while maintaining human oversight for final decisions, provides a scalable model for evidence synthesis in rapidly evolving technological fields.
+
+\subsection{Key Findings and Implications}
+
+This research addresses three fundamental questions about collaborative AR in industrial contexts, revealing several counterintuitive patterns that challenge conventional design assumptions. The systematic literature review established a four-archetype taxonomy for industrial AR collaboration, which was refined through empirical work to include a specialised "Co-located Industrial Assembly" sub-archetype capturing unique shared-space dynamics.
+
+Technically, the artifact demonstrated feasibility of robust collaborative AR systems using current hardware, achieving sub-50ms response times and sub-millimetre spatial alignment despite technological constraints. However, the most significant finding was that communication constraints enhanced rather than hindered collaborative performance—silent collaboration achieved faster completion times than verbal communication (5.00 vs 10.72 minutes, p=0.025).
+
+Additional key insights include quality-speed independence across task variants, systematic template development patterns that mirror industrial learning principles, and productive task ambiguity that enhanced collaboration depth. These findings contribute to CSCW theory by demonstrating that focused interaction may be more valuable than unrestricted discussion in specific contexts, while providing practitioners with actionable design principles: constraint-driven efficiency, template development support, diverse collaboration approaches, and leveraging productive ambiguity.
+
+\section{Limitations}
+
+This research, while providing valuable insights into collaborative AR systems for industrial applications, has several important limitations that must be acknowledged to properly contextualise the findings and guide future research.
+
+\paragraph{Sample and population limitations}
+\begin{itemize}
+    \item The study employed a convenience sample of 16 STEM students from a single university, limiting generalisability to broader industrial populations with diverse educational backgrounds, ages, and technical experience levels.
+    \item Participants were predominantly young adults (mean age not representative of typical industrial workforce demographics) and well acquainted with each other, which may have influenced collaboration dynamics in ways that differ from workplace relationships.
+    \item The sample was culturally homogeneous, conducted in an English-speaking academic environment, potentially limiting applicability to multicultural industrial settings or non-Western collaboration patterns.
+    \item Gender distribution and cultural diversity within the sample were not systematically controlled, potentially introducing unmeasured confounding variables.
+    \item The power analysis revealed inadequate sensitivity to detect small-to-medium effects (80\% power only for large effects: Friedman f $\geq$ 0.70; correlations r $\geq$ 0.70), requiring cautious interpretation of non-significant findings and limiting confidence in effect size estimates.
+\end{itemize}
+
+\paragraph{Methodological and design limitations}
+\begin{itemize}
+    \item The systematic literature review, while following PRISMA guidelines, focused exclusively on academic publications and excluded grey literature, industry reports, and proprietary research that may contain relevant practical insights.
+    \item The controlled classroom environment, though necessary for experimental control, lacks the environmental stressors, time pressures, safety concerns, and organisational constraints present in real manufacturing settings.
+    \item Cross-sectional study design prevents understanding of long-term learning effects, skill retention, or how collaboration patterns evolve with extended system use.
+    \item The Latin square design, while controlling for order effects, limited the exploration of learning transfer and adaptation strategies that might emerge with different task sequences.
+    \item Subjective measures relied primarily on validated questionnaires (SUS, NASA-TLX, Big Five) without domain-specific instruments for collaborative AR evaluation.
+    \item Observer effects and demand characteristics may have influenced participant behaviour, particularly given the academic setting and participant awareness of being evaluated.
+\end{itemize}
+
+\paragraph{Technical and system limitations}
+\begin{itemize}
+    \item The system was designed exclusively for HoloLens 2 devices, limiting generalisability to other AR platforms with different capabilities, tracking systems, or interaction modalities.
+    \item Hardware constraints including overheating, battery life, and ergonomic limitations required mitigation strategies (air conditioning, charging breaks) that would be impractical in real industrial deployments.
+    \item Calibration procedures, despite achieving sub-millimetre precision, remain too time-consuming and technically demanding for practical adoption in dynamic manufacturing environments.
+    \item The networking architecture was optimised for localhost scenarios and may not reflect performance characteristics of industrial networks with varying latency, bandwidth constraints, or security requirements.
+    \item Adaptive user interface capabilities were not implemented, preventing exploration of personalised collaboration support that might enhance individual or team performance.
+    \item Accessibility considerations were not systematically addressed, limiting applicability to users with visual, auditory, or motor impairments commonly present in industrial workforces.
+    \item The system architecture was limited to dyadic collaboration, preventing investigation of how collaboration dynamics scale to larger teams typical in complex manufacturing tasks.
+\end{itemize}
+
+\paragraph{Task and ecological validity limitations}
+\begin{itemize}
+    \item The bridge construction task, while maintaining core collaboration characteristics, represents a simplified abstraction of an already simplified civil engineering task that may not capture domain-specific expertise, procedural complexity, or quality standards.
+    \item Virtual building blocks lacked realistic physical properties (weight, material constraints, failure modes) that influence real-world assembly decisions and collaboration strategies.
+    \item The absence of real-time structural testing prevented participants from understanding immediate consequences of design decisions, potentially affecting the ecological validity of collaboration patterns.
+    \item The virtual environment eliminated physical safety considerations, ergonomic constraints, and environmental factors (noise, lighting, temperature) that significantly influence industrial collaboration.
+    \item Cost optimisation objectives, while present in the task design, lacked the complexity and trade-offs typical of real manufacturing scenarios involving multiple stakeholder priorities.
+    \item The predetermined task structure may not reflect the emergent, adaptive problem-solving characteristic of authentic industrial collaboration scenarios.
+\end{itemize}
+
+\paragraph{Data collection and analysis limitations}
+\begin{itemize}
+    \item Movement data collection at 1Hz frequency may have missed important micro-coordination behaviours or rapid spatial adjustments relevant to collaboration analysis.
+    \item Transcript analysis relied on automated speech-to-text conversion with manual post-processing of noisy data, potentially introducing transcription errors that could affect communication pattern analysis.
+    \item Spatial deixis coding was conducted manually by a single researcher without inter-rater reliability assessment, potentially introducing subjective interpretation bias.
+    \item The study's mixed-methods approach, while comprehensive, created challenges in integrating quantitative and qualitative findings with different levels of statistical confidence.
+    \item Bridge quality assessment focused primarily on structural metrics without incorporating aesthetic, usability, or other qualitative dimensions that might influence real-world evaluation.
+    \item Individual difference measures (Big Five personality traits) were collected via self-report questionnaires without objective validation or domain-specific collaboration assessment instruments.
+    \item The literature review, writing of the thesis and implementation of the research artifact were supported using generative AI technologies, with all generated content (except portions of the literature review) fact-checked and validated against primary sources and testing results to ensure accuracy and methodological integrity.
+\end{itemize}
+
+\paragraph{Temporal and contextual limitations}
+\begin{itemize}
+    \item The study captured collaboration dynamics during a brief, isolated experimental session without considering how workplace relationships, organisational culture, or repeated collaboration experiences might influence patterns.
+    \item Seasonal timing (March 2025) and academic calendar constraints may have introduced unmeasured factors affecting participant motivation, stress levels, or performance.
+    \item The research was conducted during a specific period of AR technology development; hardware and software evolution may quickly obsolete specific technical findings.
+\end{itemize}
+
+
+\section{Future Work}
+
+The findings of this research open several promising avenues for future investigation and development:
+
+\paragraph{Expanding Collaboration Scale and Complexity}
+Future research should examine collaborative AR systems with more than two participants to understand how collaboration dynamics scale with team size. This includes investigating coordination mechanisms for larger groups, information management strategies to prevent cognitive overload, and leadership emergence patterns in multi-user AR environments.
+
+Additionally, exploring more complex industrial tasks beyond assembly work, such as maintenance procedures, quality inspection, or process optimisation, would provide broader insights into collaborative AR applications across different manufacturing domains.
+
+\paragraph{Adaptive and Intelligent System Design}
+The template development patterns observed in this study suggest significant potential for adaptive collaborative AR systems. Future work should investigate systems that automatically recognise successful collaboration patterns, provide intelligent suggestions based on accumulated collaborative knowledge, and adapt interface elements based on team performance and individual user characteristics.
+
+Machine learning approaches could enable systems to predict optimal collaboration strategies for different task types and team compositions, potentially improving both efficiency and user satisfaction.
+
+\paragraph{Longitudinal Studies and Learning Mechanisms}
+Extended longitudinal studies are needed to understand how collaborative AR skills develop over time and how teams adapt their working patterns with extended system use. This includes investigating knowledge transfer mechanisms between different teams and tasks, skill retention across different technological platforms, and the evolution of collaboration strategies as users become more proficient with AR interfaces.
+
+\paragraph{Industrial Deployment and Validation}
+Real-world industrial deployments are essential to validate the findings in authentic manufacturing environments. This includes partnerships with manufacturing companies to implement and evaluate collaborative AR systems in actual production contexts, addressing challenges such as integration with existing manufacturing execution systems, compliance with industrial safety standards, and adaptation to varying environmental conditions.
+
+Field studies should also examine the economic impact of collaborative AR implementation, including training cost reduction, productivity improvements, and return on investment metrics.
+
+\paragraph{Accessibility and Inclusive Design}
+Future research should address the accessibility limitations identified in this study by investigating collaborative AR design for users with diverse abilities, including visual, auditory, or motor impairments. This includes developing alternative interaction modalities, ensuring compliance with accessibility standards, and understanding how accessibility features affect collaboration dynamics between mixed-ability teams.
+
+\paragraph{Communication and Constraint Design}
+The counterintuitive finding that communication constraints improved performance suggests a rich area for future investigation. Research should explore optimal constraint design for different task types and team compositions, investigate the mechanisms through which constraints focus collaborative effort, and develop guidelines for when to enhance versus limit communication capabilities in collaborative AR systems.
+
+Cross-cultural studies would also be valuable to understand how communication patterns and constraint effectiveness vary across different cultural contexts and communication styles.
+
+\paragraph{Technical Architecture Evolution}
+As AR hardware continues to evolve, future research should revisit the technical challenges identified in this study. This includes evaluating next-generation AR devices for ergonomics and performance improvements, investigating cloud-based architectures for scaling collaborative AR systems, and exploring 5G and edge computing solutions for reducing latency and improving system responsiveness.
+
+Advanced tracking technologies beyond marker-based systems should be evaluated for their effectiveness in maintaining spatial alignment in collaborative scenarios without requiring cumbersome calibration procedures.

@@ -1,0 +1,514 @@
+{
+  "P1": {
+    "total_distance": 507.8054962901849,
+    "total_duration": 3319.0,
+    "avg_height": 1.4384813853866332,
+    "session_count": 4,
+    "sessions": [
+      {
+        "session": 0,
+        "distance": 21.62402866943168,
+        "duration": 559.0,
+        "avg_height": 1.3549638989169674
+      },
+      {
+        "session": 1,
+        "distance": 34.88986879130152,
+        "duration": 420.0,
+        "avg_height": 1.5481971153846152
+      },
+      {
+        "session": 2,
+        "distance": 47.70775782898418,
+        "duration": 480.0,
+        "avg_height": 1.6227298245614035
+      },
+      {
+        "session": 3,
+        "distance": 403.58384100046754,
+        "duration": 1860.0,
+        "avg_height": 1.3936600949251552
+      }
+    ]
+  },
+  "P2": {
+    "total_distance": 265.2210810621291,
+    "total_duration": 3319.0,
+    "avg_height": 1.4707969454849368,
+    "session_count": 4,
+    "sessions": [
+      {
+        "session": 0,
+        "distance": 12.653266379230292,
+        "duration": 559.0,
+        "avg_height": 1.35258962011771
+      },
+      {
+        "session": 1,
+        "distance": 40.51529698317498,
+        "duration": 420.0,
+        "avg_height": 1.5496714743589743
+      },
+      {
+        "session": 2,
+        "distance": 25.574511394849207,
+        "duration": 480.0,
+        "avg_height": 1.6289420289855072
+      },
+      {
+        "session": 3,
+        "distance": 186.4780063048746,
+        "duration": 1860.0,
+        "avg_height": 1.4321066319895968
+      }
+    ]
+  },
+  "P6": {
+    "total_distance": 246.60691391114935,
+    "total_duration": 1251.0,
+    "avg_height": 1.6874628477197997,
+    "session_count": 4,
+    "sessions": [
+      {
+        "session": 10,
+        "distance": 74.21818328346332,
+        "duration": 300.0,
+        "avg_height": 1.810950782997763
+      },
+      {
+        "session": 11,
+        "distance": 61.197985402988074,
+        "duration": 180.0,
+        "avg_height": 1.7069459962756053
+      },
+      {
+        "session": 8,
+        "distance": 98.88024318946691,
+        "duration": 531.0,
+        "avg_height": 1.5712674271229405
+      },
+      {
+        "session": 9,
+        "distance": 12.310502035231064,
+        "duration": 240.0,
+        "avg_height": 1.7721617852161786
+      }
+    ]
+  },
+  "P5": {
+    "total_distance": 231.12363907763753,
+    "total_duration": 1251.0,
+    "avg_height": 1.684859173196544,
+    "session_count": 4,
+    "sessions": [
+      {
+        "session": 10,
+        "distance": 69.17403821839137,
+        "duration": 300.0,
+        "avg_height": 1.811353467561521
+      },
+      {
+        "session": 11,
+        "distance": 34.94654369866986,
+        "duration": 180.0,
+        "avg_height": 1.6962569832402234
+      },
+      {
+        "session": 8,
+        "distance": 107.14609101372483,
+        "duration": 531.0,
+        "avg_height": 1.5710815939278937
+      },
+      {
+        "session": 9,
+        "distance": 19.85696614685147,
+        "duration": 240.0,
+        "avg_height": 1.7669747899159662
+      }
+    ]
+  },
+  "P7": {
+    "total_distance": 191.73691264638373,
+    "total_duration": 1740.0,
+    "avg_height": 1.644503237982155,
+    "session_count": 4,
+    "sessions": [
+      {
+        "session": 12,
+        "distance": 55.23476713493754,
+        "duration": 960.0,
+        "avg_height": 1.6207573025604038
+      },
+      {
+        "session": 13,
+        "distance": 75.32675019331201,
+        "duration": 300.0,
+        "avg_height": 1.7839485458612974
+      },
+      {
+        "session": 14,
+        "distance": 38.73444771060047,
+        "duration": 180.0,
+        "avg_height": 1.57453531598513
+      },
+      {
+        "session": 15,
+        "distance": 22.44094760753371,
+        "duration": 300.0,
+        "avg_height": 1.618970917225951
+      }
+    ]
+  },
+  "P8": {
+    "total_distance": 261.73354431978066,
+    "total_duration": 1740.0,
+    "avg_height": 1.6445871163348134,
+    "session_count": 4,
+    "sessions": [
+      {
+        "session": 12,
+        "distance": 186.3464434400153,
+        "duration": 960.0,
+        "avg_height": 1.621346570397112
+      },
+      {
+        "session": 13,
+        "distance": 19.179009079036376,
+        "duration": 300.0,
+        "avg_height": 1.784590347923681
+      },
+      {
+        "session": 14,
+        "distance": 41.36148071265377,
+        "duration": 180.0,
+        "avg_height": 1.5744692737430168
+      },
+      {
+        "session": 15,
+        "distance": 14.846611088075239,
+        "duration": 300.0,
+        "avg_height": 1.6181991051454139
+      }
+    ]
+  },
+  "P9": {
+    "total_distance": 306.33419725960067,
+    "total_duration": 1803.0,
+    "avg_height": 1.7479596468250087,
+    "session_count": 4,
+    "sessions": [
+      {
+        "session": 16,
+        "distance": 181.8050488624329,
+        "duration": 723.0,
+        "avg_height": 1.675076708507671
+      },
+      {
+        "session": 17,
+        "distance": 20.71203300648259,
+        "duration": 180.0,
+        "avg_height": 1.8331296296296296
+      },
+      {
+        "session": 18,
+        "distance": 67.59399008020422,
+        "duration": 240.0,
+        "avg_height": 1.9474965034965035
+      },
+      {
+        "session": 19,
+        "distance": 36.22312531048095,
+        "duration": 660.0,
+        "avg_height": 1.7315674300254453
+      }
+    ]
+  },
+  "P10": {
+    "total_distance": 231.20409803978333,
+    "total_duration": 1803.0,
+    "avg_height": 1.7475042410959174,
+    "session_count": 4,
+    "sessions": [
+      {
+        "session": 16,
+        "distance": 136.33033577658523,
+        "duration": 723.0,
+        "avg_height": 1.674699580810433
+      },
+      {
+        "session": 17,
+        "distance": 23.626167591269116,
+        "duration": 180.0,
+        "avg_height": 1.8338733705772812
+      },
+      {
+        "session": 18,
+        "distance": 58.31359491645883,
+        "duration": 240.0,
+        "avg_height": 1.9443557422969187
+      },
+      {
+        "session": 19,
+        "distance": 12.933999755470143,
+        "duration": 660.0,
+        "avg_height": 1.7321100917431194
+      }
+    ]
+  },
+  "P11": {
+    "total_distance": 477.11530543668084,
+    "total_duration": 3091.0,
+    "avg_height": 1.7158903157827916,
+    "session_count": 4,
+    "sessions": [
+      {
+        "session": 20,
+        "distance": 85.76220333268986,
+        "duration": 420.0,
+        "avg_height": 1.6878577138289366
+      },
+      {
+        "session": 21,
+        "distance": 243.33703924653423,
+        "duration": 1620.0,
+        "avg_height": 1.7474838843834477
+      },
+      {
+        "session": 22,
+        "distance": 95.57407095853996,
+        "duration": 571.0,
+        "avg_height": 1.728044758539458
+      },
+      {
+        "session": 23,
+        "distance": 52.441991898916775,
+        "duration": 480.0,
+        "avg_height": 1.6243228070175437
+      }
+    ]
+  },
+  "P12": {
+    "total_distance": 483.3808791810233,
+    "total_duration": 3091.0,
+    "avg_height": 1.7145521529123817,
+    "session_count": 4,
+    "sessions": [
+      {
+        "session": 20,
+        "distance": 73.85982337677184,
+        "duration": 420.0,
+        "avg_height": 1.6865387689848121
+      },
+      {
+        "session": 21,
+        "distance": 220.92626175170238,
+        "duration": 1620.0,
+        "avg_height": 1.7470552784704905
+      },
+      {
+        "session": 22,
+        "distance": 154.8546764234561,
+        "duration": 571.0,
+        "avg_height": 1.7277385159010599
+      },
+      {
+        "session": 23,
+        "distance": 33.74011762909301,
+        "duration": 480.0,
+        "avg_height": 1.62300350877193
+      }
+    ]
+  },
+  "P14": {
+    "total_distance": 247.6579315503762,
+    "total_duration": 1302.0,
+    "avg_height": 1.849107351377816,
+    "session_count": 4,
+    "sessions": [
+      {
+        "session": 24,
+        "distance": 33.59812991476784,
+        "duration": 240.0,
+        "avg_height": 1.8173221757322175
+      },
+      {
+        "session": 25,
+        "distance": 117.78363430296103,
+        "duration": 600.0,
+        "avg_height": 1.7413677130044842
+      },
+      {
+        "session": 26,
+        "distance": 81.51948366170046,
+        "duration": 282.0,
+        "avg_height": 1.886607142857143
+      },
+      {
+        "session": 27,
+        "distance": 14.756683670946861,
+        "duration": 180.0,
+        "avg_height": 2.1975000000000002
+      }
+    ]
+  },
+  "P13": {
+    "total_distance": 127.68578986854814,
+    "total_duration": 1302.0,
+    "avg_height": 1.8502645294774622,
+    "session_count": 4,
+    "sessions": [
+      {
+        "session": 24,
+        "distance": 28.732353442735146,
+        "duration": 240.0,
+        "avg_height": 1.8180532212885152
+      },
+      {
+        "session": 25,
+        "distance": 17.424087435475705,
+        "duration": 600.0,
+        "avg_height": 1.7413636363636362
+      },
+      {
+        "session": 26,
+        "distance": 56.457384177712726,
+        "duration": 282.0,
+        "avg_height": 1.8857467144563917
+      },
+      {
+        "session": 27,
+        "distance": 25.071964812624564,
+        "duration": 180.0,
+        "avg_height": 2.1977037037037035
+      }
+    ]
+  },
+  "P15": {
+    "total_distance": 389.51179674824124,
+    "total_duration": 3233.0,
+    "avg_height": 1.7452216881732212,
+    "session_count": 4,
+    "sessions": [
+      {
+        "session": 28,
+        "distance": 221.1629047869369,
+        "duration": 1980.0,
+        "avg_height": 1.6532042405884897
+      },
+      {
+        "session": 29,
+        "distance": 76.98593483024285,
+        "duration": 360.0,
+        "avg_height": 1.9762464985994397
+      },
+      {
+        "session": 30,
+        "distance": 33.9457622078358,
+        "duration": 480.0,
+        "avg_height": 1.795754385964912
+      },
+      {
+        "session": 31,
+        "distance": 57.4171949232257,
+        "duration": 413.0,
+        "avg_height": 1.833162184189079
+      }
+    ]
+  },
+  "P16": {
+    "total_distance": 316.9788453567432,
+    "total_duration": 3233.0,
+    "avg_height": 1.7502659407637922,
+    "session_count": 4,
+    "sessions": [
+      {
+        "session": 28,
+        "distance": 59.96135712306408,
+        "duration": 1980.0,
+        "avg_height": 1.6620400767426988
+      },
+      {
+        "session": 29,
+        "distance": 75.94586999384984,
+        "duration": 360.0,
+        "avg_height": 1.9771148459383752
+      },
+      {
+        "session": 30,
+        "distance": 120.94089618626805,
+        "duration": 480.0,
+        "avg_height": 1.7943548387096775
+      },
+      {
+        "session": 31,
+        "distance": 60.13072205356123,
+        "duration": 413.0,
+        "avg_height": 1.8352764227642275
+      }
+    ]
+  },
+  "P3": {
+    "total_distance": 274.26867552378656,
+    "total_duration": 2424.0,
+    "avg_height": 1.6021034309111906,
+    "session_count": 4,
+    "sessions": [
+      {
+        "session": 4,
+        "distance": 20.551199485741837,
+        "duration": 720.0,
+        "avg_height": 1.7611033193080878
+      },
+      {
+        "session": 5,
+        "distance": 82.40042991934138,
+        "duration": 840.0,
+        "avg_height": 1.4999077416766946
+      },
+      {
+        "session": 6,
+        "distance": 89.5730758777148,
+        "duration": 540.0,
+        "avg_height": 1.5811574362165526
+      },
+      {
+        "session": 7,
+        "distance": 81.74397024098856,
+        "duration": 324.0,
+        "avg_height": 1.5505711318795432
+      }
+    ]
+  },
+  "P4": {
+    "total_distance": 274.1564798107676,
+    "total_duration": 2424.0,
+    "avg_height": 1.6017338429127157,
+    "session_count": 4,
+    "sessions": [
+      {
+        "session": 4,
+        "distance": 135.91296956032642,
+        "duration": 720.0,
+        "avg_height": 1.7607152875175316
+      },
+      {
+        "session": 5,
+        "distance": 21.652579035390673,
+        "duration": 840.0,
+        "avg_height": 1.4994437775110043
+      },
+      {
+        "session": 6,
+        "distance": 101.44818514462564,
+        "duration": 540.0,
+        "avg_height": 1.580136815920398
+      },
+      {
+        "session": 7,
+        "distance": 15.142746070424913,
+        "duration": 324.0,
+        "avg_height": 1.5485877466251297
+      }
+    ]
+  }
+}

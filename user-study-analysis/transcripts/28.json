@@ -1,0 +1,746 @@
+{
+  "0": {
+    "speaker": "j7hHkgiC",
+    "words": "One minute.",
+    "start": 3.106,
+    "end": 3.376
+  },
+  "1": {
+    "speaker": "j7hHkgiC",
+    "words": "Excuse me, hey, thank you.",
+    "start": 5.742,
+    "end": 13.915
+  },
+  "2": {
+    "speaker": "iN9X5S4Q",
+    "words": "Which one? Only planning? But planning is very standard. Thanks.",
+    "start": 14.4,
+    "end": 17.388
+  },
+  "3": {
+    "speaker": "iN9X5S4Q",
+    "words": "OK, what we should do.",
+    "start": 20.073,
+    "end": 21.179
+  },
+  "4": {
+    "speaker": "iN9X5S4Q",
+    "words": "We should include some T-shapes in the middle of it. Can you just put it in the red?",
+    "start": 23.128,
+    "end": 30.878
+  },
+  "5": {
+    "speaker": "iN9X5S4Q",
+    "words": "No. It's my answer. Try to keep it in English.",
+    "start": 31.118,
+    "end": 34.663
+  },
+  "6": {
+    "speaker": "HOST",
+    "words": "Please.",
+    "start": 36.683,
+    "end": 36.983
+  },
+  "7": {
+    "speaker": "HOST",
+    "words": "Why is that possible?",
+    "start": 37.023,
+    "end": 40.929
+  },
+  "8": {
+    "speaker": "HOST",
+    "words": "Anything you put into the red areas disappears after five seconds.",
+    "start": 40.944,
+    "end": 43.312
+  },
+  "9": {
+    "speaker": "HOST",
+    "words": "Oh, brilliant.",
+    "start": 43.413,
+    "end": 45.452
+  },
+  "10": {
+    "speaker": "iN9X5S4Q",
+    "words": "But, you know, we need something—ground structure and supports which hold the bench.",
+    "start": 47.601,
+    "end": 53.801
+  },
+  "11": {
+    "speaker": "j7hHkgiC",
+    "words": "We put in the small groups like there, and then we put the large ones.",
+    "start": 53.821,
+    "end": 59.911
+  },
+  "12": {
+    "speaker": "j7hHkgiC",
+    "words": "Over there.",
+    "start": 60.106,
+    "end": 60.528
+  },
+  "13": {
+    "speaker": "iN9X5S4Q",
+    "words": "So what shape would you say are the small cubes? Small cubes. Small cubes.",
+    "start": 60.926,
+    "end": 64.997
+  },
+  "14": {
+    "speaker": "iN9X5S4Q",
+    "words": "Okay, so can we agree that we've got two on each side, so four on each side? Yeah.",
+    "start": 65.012,
+    "end": 69.215
+  },
+  "15": {
+    "speaker": "j7hHkgiC",
+    "words": "And then always the big ones over there.",
+    "start": 69.216,
+    "end": 73.028
+  },
+  "16": {
+    "speaker": "iN9X5S4Q",
+    "words": "Thank you.",
+    "start": 73.312,
+    "end": 73.535
+  },
+  "17": {
+    "speaker": "j7hHkgiC",
+    "words": "Okay.",
+    "start": 75.248,
+    "end": 76.149
+  },
+  "18": {
+    "speaker": "HOST",
+    "words": "See if I can put this over here. I think the red ones.",
+    "start": 82.124,
+    "end": 86.599
+  },
+  "19": {
+    "speaker": "iN9X5S4Q",
+    "words": "That should work. No, no, no, you need to turn it just far and then just now I don't. But if you're not sure, do you want to place it on the first cube? But you could also maybe visit.",
+    "start": 99.536,
+    "end": 110.036
+  },
+  "20": {
+    "speaker": "j7hHkgiC",
+    "words": "Now it's.",
+    "start": 113.249,
+    "end": 113.711
+  },
+  "21": {
+    "speaker": "j7hHkgiC",
+    "words": "a combination of things.",
+    "start": 113.712,
+    "end": 114.859
+  },
+  "22": {
+    "speaker": "j7hHkgiC",
+    "words": "What is the reward?",
+    "start": 117.945,
+    "end": 121.99
+  },
+  "23": {
+    "speaker": "j7hHkgiC",
+    "words": "Yeah, but it's fine.",
+    "start": 122.068,
+    "end": 123.291
+  },
+  "24": {
+    "speaker": "j7hHkgiC",
+    "words": "So we need another one here.",
+    "start": 126.868,
+    "end": 128.679
+  },
+  "25": {
+    "speaker": "iN9X5S4Q",
+    "words": "But we can't spot them.",
+    "start": 132.874,
+    "end": 134.202
+  },
+  "26": {
+    "speaker": "j7hHkgiC",
+    "words": "Thank you.",
+    "start": 141.084,
+    "end": 141.38
+  },
+  "27": {
+    "speaker": "iN9X5S4Q",
+    "words": "It's not a big win to change that.",
+    "start": 147.71,
+    "end": 149.775
+  },
+  "28": {
+    "speaker": "HOST",
+    "words": "It's not a big win to change that.",
+    "start": 149.795,
+    "end": 152.584
+  },
+  "29": {
+    "speaker": "iN9X5S4Q",
+    "words": "All right.",
+    "start": 152.623,
+    "end": 153.463
+  },
+  "30": {
+    "speaker": "HOST",
+    "words": "You can't have it like that. Like that? Yeah, and then we have the rest of them here now.",
+    "start": 153.464,
+    "end": 159.099
+  },
+  "31": {
+    "speaker": "iN9X5S4Q",
+    "words": "Yeah.",
+    "start": 159.539,
+    "end": 160.421
+  },
+  "32": {
+    "speaker": "iN9X5S4Q",
+    "words": "So you're only creating them off the spawn groups now?",
+    "start": 160.519,
+    "end": 162.984
+  },
+  "33": {
+    "speaker": "HOST",
+    "words": "Yes. And now you can put that to spawn.",
+    "start": 163.101,
+    "end": 166.543
+  },
+  "34": {
+    "speaker": "iN9X5S4Q",
+    "words": "Nobody wants to speak.",
+    "start": 168.94,
+    "end": 170.808
+  },
+  "35": {
+    "speaker": "iN9X5S4Q",
+    "words": "Great, that's it.",
+    "start": 173.113,
+    "end": 174.597
+  },
+  "36": {
+    "speaker": "j7hHkgiC",
+    "words": "Okay.",
+    "start": 178.288,
+    "end": 178.771
+  },
+  "37": {
+    "speaker": "j7hHkgiC",
+    "words": "We need.",
+    "start": 181.452,
+    "end": 181.713
+  },
+  "38": {
+    "speaker": "j7hHkgiC",
+    "words": "Something higher, or it pays too small, maybe a little cheaper if it pays. Yeah, I mean, it's, yeah, just one decision.",
+    "start": 181.753,
+    "end": 191.653
+  },
+  "39": {
+    "speaker": "iN9X5S4Q",
+    "words": "Okay, that's what we're going to do. Can you make the small cubes? You can also select your team.",
+    "start": 194.231,
+    "end": 199.055
+  },
+  "40": {
+    "speaker": "iN9X5S4Q",
+    "words": "Yes, but I want just one more.",
+    "start": 203.702,
+    "end": 206.792
+  },
+  "41": {
+    "speaker": "j7hHkgiC",
+    "words": "Yeah. Oh, that's all. Yeah. The most.",
+    "start": 206.952,
+    "end": 208.616
+  },
+  "42": {
+    "speaker": "j7hHkgiC",
+    "words": "So we in total need eight small cubes to allow us to have sticks.",
+    "start": 211.684,
+    "end": 215.714
+  },
+  "43": {
+    "speaker": "HOST",
+    "words": "Thank you.",
+    "start": 232.281,
+    "end": 232.932
+  },
+  "44": {
+    "speaker": "HOST",
+    "words": "Thank you. We will take a break in the middle of the meeting, followed by the meeting. Okay.",
+    "start": 244.38,
+    "end": 254.078
+  },
+  "45": {
+    "speaker": "iN9X5S4Q",
+    "words": "Can you pass it up?",
+    "start": 264.436,
+    "end": 265.462
+  },
+  "46": {
+    "speaker": "j7hHkgiC",
+    "words": "This one also.",
+    "start": 265.561,
+    "end": 265.983
+  },
+  "47": {
+    "speaker": "HOST",
+    "words": "No, it must be. Why?",
+    "start": 268.628,
+    "end": 269.611
+  },
+  "48": {
+    "speaker": "HOST",
+    "words": "Don't you have it?",
+    "start": 269.651,
+    "end": 270.193
+  },
+  "49": {
+    "speaker": "iN9X5S4Q",
+    "words": "Wait, how do I have it?",
+    "start": 270.194,
+    "end": 272.719
+  },
+  "50": {
+    "speaker": "HOST",
+    "words": "You can't use it.",
+    "start": 272.738,
+    "end": 273.801
+  },
+  "51": {
+    "speaker": "iN9X5S4Q",
+    "words": "Thank you.",
+    "start": 275.035,
+    "end": 275.4
+  },
+  "52": {
+    "speaker": "HOST",
+    "words": "If it just touches the right thing, then that doesn't feel odd.",
+    "start": 277.108,
+    "end": 280.121
+  },
+  "53": {
+    "speaker": "HOST",
+    "words": "If it registers as the inside inside,",
+    "start": 281.264,
+    "end": 283.729
+  },
+  "54": {
+    "speaker": "iN9X5S4Q",
+    "words": "I think that's it. Yeah.",
+    "start": 283.768,
+    "end": 287.836
+  },
+  "55": {
+    "speaker": "HOST",
+    "words": "You need to say sorry.",
+    "start": 287.837,
+    "end": 288.637
+  },
+  "56": {
+    "speaker": "HOST",
+    "words": "Thanks for that.",
+    "start": 300.732,
+    "end": 301.086
+  },
+  "57": {
+    "speaker": "HOST",
+    "words": "Thank you.",
+    "start": 301.626,
+    "end": 301.858
+  },
+  "58": {
+    "speaker": "HOST",
+    "words": "What the government is still doing.",
+    "start": 310.658,
+    "end": 313.255
+  },
+  "59": {
+    "speaker": "HOST",
+    "words": "Oh, oh, we need two small ones here again.",
+    "start": 313.531,
+    "end": 316.628
+  },
+  "60": {
+    "speaker": "iN9X5S4Q",
+    "words": "Then we have, like, they're not the same.",
+    "start": 318.358,
+    "end": 320.252
+  },
+  "61": {
+    "speaker": "iN9X5S4Q",
+    "words": "Thank you.",
+    "start": 325.658,
+    "end": 325.954
+  },
+  "62": {
+    "speaker": "HOST",
+    "words": "I'm watching.",
+    "start": 336.591,
+    "end": 338.861
+  },
+  "63": {
+    "speaker": "HOST",
+    "words": "Thank you. Oops. And stay.",
+    "start": 344.023,
+    "end": 345.932
+  },
+  "64": {
+    "speaker": "HOST",
+    "words": "Maybe two, two breaks one on another, it's not safe.",
+    "start": 349.61,
+    "end": 356.046
+  },
+  "65": {
+    "speaker": "j7hHkgiC",
+    "words": "Извините от 3 до 2.",
+    "start": 364.882,
+    "end": 366.69
+  },
+  "66": {
+    "speaker": "j7hHkgiC",
+    "words": "Thanks, thank you.",
+    "start": 373.338,
+    "end": 373.826
+  },
+  "67": {
+    "speaker": "HOST",
+    "words": "Hello. Thank you, thank you.",
+    "start": 378.987,
+    "end": 389.185
+  },
+  "68": {
+    "speaker": "HOST",
+    "words": "Thank you. Okay. Thank you.",
+    "start": 403.121,
+    "end": 411.362
+  },
+  "69": {
+    "speaker": "iN9X5S4Q",
+    "words": "Thank you, thank you. Okay. Yeah. I don't",
+    "start": 417.722,
+    "end": 424.366
+  },
+  "70": {
+    "speaker": "HOST",
+    "words": "know, yeah, so we",
+    "start": 424.593,
+    "end": 425.828
+  },
+  "71": {
+    "speaker": "iN9X5S4Q",
+    "words": "need two here, we need two, and that's it. Yeah, I have one. Thank you. And then we don't work it out with",
+    "start": 425.908,
+    "end": 436.883
+  },
+  "72": {
+    "speaker": "j7hHkgiC",
+    "words": "all ones, let's just put it. But I think the distance is too... But",
+    "start": 436.903,
+    "end": 446.66
+  },
+  "73": {
+    "speaker": "iN9X5S4Q",
+    "words": "here we also just do... This one",
+    "start": 446.762,
+    "end": 449.869
+  },
+  "74": {
+    "speaker": "j7hHkgiC",
+    "words": "is one more. Thank you. To",
+    "start": 449.87,
+    "end": 457.255
+  },
+  "75": {
+    "speaker": "iN9X5S4Q",
+    "words": "get some big ones. Okay.",
+    "start": 457.315,
+    "end": 476.053
+  },
+  "76": {
+    "speaker": "HOST",
+    "words": "Thank you. No, no, no, no, no.",
+    "start": 479.866,
+    "end": 486.97
+  },
+  "77": {
+    "speaker": "HOST",
+    "words": "Shh. Shh. Shh. Shh. Shh. Shh. Shh. Shh. Shh. Shh. Shh. Shh. Shh. Shh. Shh. Shh.",
+    "start": 487.089,
+    "end": 493.359
+  },
+  "78": {
+    "speaker": "HOST",
+    "words": "Oh, no. Oh, God. Oh, man.",
+    "start": 493.413,
+    "end": 520.655
+  },
+  "79": {
+    "speaker": "HOST",
+    "words": "Maybe, maybe, how much is the T-shirt?",
+    "start": 523.139,
+    "end": 526.823
+  },
+  "80": {
+    "speaker": "HOST",
+    "words": "T-shirt is ten.",
+    "start": 526.948,
+    "end": 527.729
+  },
+  "81": {
+    "speaker": "HOST",
+    "words": "Subtitles created by Dimatorzok.",
+    "start": 530.314,
+    "end": 531.425
+  },
+  "82": {
+    "speaker": "HOST",
+    "words": "So we replace the small cubes with orange shapes.",
+    "start": 532.962,
+    "end": 538.133
+  },
+  "83": {
+    "speaker": "iN9X5S4Q",
+    "words": "Yeah, because they won't fall. Yeah, they must stay.",
+    "start": 543.127,
+    "end": 546.51
+  },
+  "84": {
+    "speaker": "HOST",
+    "words": "How can we do it?",
+    "start": 546.511,
+    "end": 547.231
+  },
+  "85": {
+    "speaker": "HOST",
+    "words": "Are they still calculated?",
+    "start": 547.289,
+    "end": 549.691
+  },
+  "86": {
+    "speaker": "HOST",
+    "words": "No, just later on the red things in the head rooms.",
+    "start": 549.692,
+    "end": 551.617
+  },
+  "87": {
+    "speaker": "HOST",
+    "words": "Anything we put on the red area that disappears will not be calculated.",
+    "start": 552.117,
+    "end": 555.219
+  },
+  "88": {
+    "speaker": "iN9X5S4Q",
+    "words": "We select now four T-shapes.",
+    "start": 555.82,
+    "end": 557.563
+  },
+  "89": {
+    "speaker": "iN9X5S4Q",
+    "words": "I will, I will be listening to select T-shapes.",
+    "start": 557.68,
+    "end": 559.649
+  },
+  "90": {
+    "speaker": "HOST",
+    "words": "Our T-shapes are just two.",
+    "start": 566.642,
+    "end": 568.524
+  },
+  "91": {
+    "speaker": "HOST",
+    "words": "What? Yeah, they're four.",
+    "start": 568.985,
+    "end": 572.327
+  },
+  "92": {
+    "speaker": "j7hHkgiC",
+    "words": "We need to save one.",
+    "start": 572.686,
+    "end": 574.569
+  },
+  "93": {
+    "speaker": "j7hHkgiC",
+    "words": "Hello, one minute. Thank you.",
+    "start": 587.99,
+    "end": 592.098
+  },
+  "94": {
+    "speaker": "HOST",
+    "words": "We are like this, maybe, but please. Thank you.",
+    "start": 597.01,
+    "end": 602.23
+  },
+  "95": {
+    "speaker": "HOST",
+    "words": "And one in the middle is not enough.",
+    "start": 615.335,
+    "end": 618.991
+  },
+  "96": {
+    "speaker": "HOST",
+    "words": "Thanks.",
+    "start": 632.994,
+    "end": 633.457
+  },
+  "97": {
+    "speaker": "j7hHkgiC",
+    "words": "Okay. Yeah, I'll be more involved.",
+    "start": 641.118,
+    "end": 643.386
+  },
+  "98": {
+    "speaker": "j7hHkgiC",
+    "words": "Thank you.",
+    "start": 652.447,
+    "end": 652.814
+  },
+  "99": {
+    "speaker": "j7hHkgiC",
+    "words": "Thank you.",
+    "start": 654.734,
+    "end": 655.03
+  },
+  "100": {
+    "speaker": "j7hHkgiC",
+    "words": "Maybe we have to...",
+    "start": 657.599,
+    "end": 658.686
+  },
+  "101": {
+    "speaker": "j7hHkgiC",
+    "words": "To show if we can.",
+    "start": 661.034,
+    "end": 662.679
+  },
+  "102": {
+    "speaker": "iN9X5S4Q",
+    "words": "Then we need something to approach it.",
+    "start": 662.84,
+    "end": 665.611
+  },
+  "103": {
+    "speaker": "iN9X5S4Q",
+    "words": "So maybe we can approach.",
+    "start": 666.732,
+    "end": 668.037
+  },
+  "104": {
+    "speaker": "j7hHkgiC",
+    "words": "Or we can also move the parts of the module.",
+    "start": 673.386,
+    "end": 676.007
+  },
+  "105": {
+    "speaker": "iN9X5S4Q",
+    "words": "Yeah, we can move that to our...",
+    "start": 676.008,
+    "end": 681.991
+  },
+  "106": {
+    "speaker": "iN9X5S4Q",
+    "words": "Thank you.",
+    "start": 683.662,
+    "end": 684.086
+  },
+  "107": {
+    "speaker": "iN9X5S4Q",
+    "words": "Thank you.",
+    "start": 685.294,
+    "end": 685.814
+  },
+  "108": {
+    "speaker": "j7hHkgiC",
+    "words": "That's President Wilson.",
+    "start": 694.075,
+    "end": 695.842
+  },
+  "109": {
+    "speaker": "j7hHkgiC",
+    "words": "Great.",
+    "start": 699.894,
+    "end": 700.661
+  },
+  "110": {
+    "speaker": "j7hHkgiC",
+    "words": "Thank you.",
+    "start": 703.071,
+    "end": 703.354
+  },
+  "111": {
+    "speaker": "j7hHkgiC",
+    "words": "That looks nice.",
+    "start": 714.012,
+    "end": 715.52
+  },
+  "112": {
+    "speaker": "HOST",
+    "words": "Okay, let me get set.",
+    "start": 720.77,
+    "end": 721.615
+  },
+  "113": {
+    "speaker": "iN9X5S4Q",
+    "words": "Thank you.",
+    "start": 738.164,
+    "end": 739.034
+  },
+  "114": {
+    "speaker": "HOST",
+    "words": "Okay, so how much was it?",
+    "start": 745.595,
+    "end": 746.72
+  },
+  "115": {
+    "speaker": "iN9X5S4Q",
+    "words": "If you're...",
+    "start": 760.331,
+    "end": 760.572
+  },
+  "116": {
+    "speaker": "HOST",
+    "words": "Bon, on va essayer de trouver un truc.",
+    "start": 411.542,
+    "end": 413.652
+  },
+  "117": {
+    "speaker": "HOST",
+    "words": "Um...",
+    "start": 512.324,
+    "end": 512.527
+  },
+  "118": {
+    "speaker": "HOST",
+    "words": "Oder nicht.",
+    "start": 756.008,
+    "end": 756.569
+  },
+  "119": {
+    "speaker": "HOST",
+    "words": "Okay, gut.",
+    "start": 757.391,
+    "end": 758.752
+  },
+  "120": {
+    "speaker": "j7hHkgiC",
+    "words": "happy with the video, put the whole end space,",
+    "start": 760.573,
+    "end": 761.956
+  },
+  "121": {
+    "speaker": "iN9X5S4Q",
+    "words": "headspace,",
+    "start": 762.177,
+    "end": 762.518
+  },
+  "122": {
+    "speaker": "j7hHkgiC",
+    "words": "but",
+    "start": 762.519,
+    "end": 762.639
+  },
+  "123": {
+    "speaker": "HOST",
+    "words": "the little...",
+    "start": 762.64,
+    "end": 763.02
+  }
+}

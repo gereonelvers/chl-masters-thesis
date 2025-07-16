@@ -1,0 +1,64 @@
+MULTIVARIATE REGRESSION ANALYSIS RESULTS
+==================================================
+
+Task Performance Prediction
+------------------------------
+Sample size: 16
+R²: 0.417
+Adjusted R²: -0.250
+F-statistic: 0.625 (p = 0.739)
+Features: agreeableness, conscientiousness, extraversion, neuroticism, openness, age, gender, ar_experience
+
+Coefficients:
+  agreeableness  :    0.980
+  conscientiousness:    0.847
+  extraversion   :   -0.334
+  neuroticism    :   -0.827
+  openness       :   -3.161
+  age            :    0.648
+  gender         :   -0.553
+  ar_experience  :   -0.860
+  intercept      :    0.372
+
+==================================================
+
+Learning Prediction
+------------------------------
+Sample size: 16
+R²: 0.345
+Adjusted R²: -0.228
+F-statistic: 0.602 (p = 0.741)
+Features: initial_sus, ar_experience, agreeableness, conscientiousness, extraversion, neuroticism, openness
+
+Coefficients:
+  initial_sus    :    0.130
+  ar_experience  :   -2.175
+  agreeableness  :   -4.356
+  conscientiousness:    2.049
+  extraversion   :   -0.358
+  neuroticism    :   -5.699
+  openness       :    4.067
+  intercept      :    8.735
+
+==================================================
+
+Bridge Quality Prediction
+------------------------------
+Sample size: 16
+R²: 0.350
+Adjusted R²: -0.218
+F-statistic: 0.616 (p = 0.731)
+Features: avg_completion_time, ar_experience, agreeableness, conscientiousness, extraversion, neuroticism, openness
+
+Coefficients:
+  avg_completion_time:   -0.225
+  ar_experience  :   -2.823
+  agreeableness  :    1.036
+  conscientiousness:   -1.676
+  extraversion   :   -0.839
+  neuroticism    :   -3.878
+  openness       :   -2.901
+  intercept      :   40.376
+
+==================================================
+

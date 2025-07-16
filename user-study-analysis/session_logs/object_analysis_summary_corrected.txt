@@ -1,0 +1,165 @@
+Session Object Analysis (Deduplicated)
+==================================================
+
+Session 0:
+  Spawned objects: BigTShape × 4, Cube × 3, Plank × 8, SmallCube × 1
+  Destroyed objects: BigLShape × 0, BigTShape × 4, Cube × 3, HeavyCube × 0, LShape × 0, Plank × 8, SmallCube × 1, TShape × 0
+  Number of unique objects spawned: 4
+
+Session 1:
+  Spawned objects: BigTShape × 1, Cube × 5, Plank × 4, SmallCube × 1
+  Destroyed objects: None
+  Number of unique objects spawned: 4
+
+Session 2:
+  Spawned objects: Cube × 4, Plank × 7, SmallCube × 3
+  Destroyed objects: None
+  Number of unique objects spawned: 3
+
+Session 3:
+  Spawned objects: Cube × 5, LShape × 1, Plank × 5, SmallCube × 6
+  Destroyed objects: None
+  Number of unique objects spawned: 4
+
+Session 4:
+  Spawned objects: LShape × 1, SmallCube × 8, TShape × 4
+  Destroyed objects: None
+  Number of unique objects spawned: 3
+
+Session 5:
+  Spawned objects: SmallCube × 2, TShape × 6
+  Destroyed objects: None
+  Number of unique objects spawned: 2
+
+Session 6:
+  Spawned objects: BigLShape × 1, SmallCube × 1, TShape × 7
+  Destroyed objects: None
+  Number of unique objects spawned: 3
+
+Session 7:
+  Spawned objects: TShape × 7
+  Destroyed objects: None
+  Number of unique objects spawned: 1
+
+Session 8:
+  Spawned objects: BigTShape × 1, Cube × 1, Plank × 1, SmallCube × 6, TShape × 9
+  Destroyed objects: BigLShape × 0, BigTShape × 1, Cube × 1, HeavyCube × 0, LShape × 0, Plank × 1, SmallCube × 6, TShape × 9
+  Number of unique objects spawned: 5
+
+Session 9:
+  Spawned objects: BigTShape × 1, LShape × 2, Plank × 3, TShape × 4
+  Destroyed objects: None
+  Number of unique objects spawned: 4
+
+Session 10:
+  Spawned objects: LShape × 3, Plank × 1, TShape × 2
+  Destroyed objects: None
+  Number of unique objects spawned: 3
+
+Session 11:
+  Spawned objects: LShape × 7
+  Destroyed objects: None
+  Number of unique objects spawned: 1
+
+Session 12:
+  Spawned objects: BigTShape × 1, Cube × 8, LShape × 1, Plank × 6, SmallCube × 3, TShape × 1
+  Destroyed objects: None
+  Number of unique objects spawned: 6
+
+Session 13:
+  Spawned objects: BigTShape × 1, Plank × 6, SmallCube × 2
+  Destroyed objects: None
+  Number of unique objects spawned: 3
+
+Session 14:
+  Spawned objects: Plank × 6
+  Destroyed objects: None
+  Number of unique objects spawned: 1
+
+Session 15:
+  Spawned objects: SmallCube × 19
+  Destroyed objects: None
+  Number of unique objects spawned: 1
+
+Session 16:
+  Spawned objects: BigLShape × 1, BigTShape × 3, Cube × 4, Plank × 4
+  Destroyed objects: None
+  Number of unique objects spawned: 4
+
+Session 17:
+  Spawned objects: Cube × 4, Plank × 4
+  Destroyed objects: None
+  Number of unique objects spawned: 2
+
+Session 18:
+  Spawned objects: Cube × 3, Plank × 5
+  Destroyed objects: None
+  Number of unique objects spawned: 2
+
+Session 19:
+  Spawned objects: Cube × 3, Plank × 8, SmallCube × 2
+  Destroyed objects: None
+  Number of unique objects spawned: 3
+
+Session 20:
+  Spawned objects: BigLShape × 1, Cube × 1, Plank × 4, TShape × 2
+  Destroyed objects: None
+  Number of unique objects spawned: 4
+
+Session 21:
+  Spawned objects: Cube × 5, Plank × 6, SmallCube × 15, TShape × 3
+  Destroyed objects: None
+  Number of unique objects spawned: 4
+
+Session 22:
+  Spawned objects: BigLShape × 2, BigTShape × 2, Cube × 4, Plank × 5, TShape × 1
+  Destroyed objects: None
+  Number of unique objects spawned: 5
+
+Session 23:
+  Spawned objects: Cube × 2, Plank × 5, SmallCube × 2, TShape × 4
+  Destroyed objects: None
+  Number of unique objects spawned: 4
+
+Session 24:
+  Spawned objects: BigLShape × 3, Cube × 2, Plank × 2
+  Destroyed objects: None
+  Number of unique objects spawned: 3
+
+Session 25:
+  Spawned objects: BigLShape × 4, BigTShape × 3, LShape × 3, Plank × 1
+  Destroyed objects: None
+  Number of unique objects spawned: 4
+
+Session 26:
+  Spawned objects: Cube × 3, Plank × 5, SmallCube × 1
+  Destroyed objects: None
+  Number of unique objects spawned: 3
+
+Session 27:
+  Spawned objects: Cube × 3, Plank × 4
+  Destroyed objects: None
+  Number of unique objects spawned: 2
+
+Session 28:
+  Spawned objects: Cube × 5, LShape × 2, Plank × 6, SmallCube × 12, TShape × 6
+  Destroyed objects: None
+  Number of unique objects spawned: 5
+
+Session 29:
+  Spawned objects: BigTShape × 3, Plank × 5, TShape × 4
+  Destroyed objects: None
+  Number of unique objects spawned: 3
+
+Session 30:
+  Spawned objects: LShape × 2, Plank × 5, SmallCube × 2, TShape × 4
+  Destroyed objects: None
+  Number of unique objects spawned: 4
+
+Session 31:
+  Spawned objects: BigTShape × 2, Plank × 3, SmallCube × 3, TShape × 3
+  Destroyed objects: None
+  Number of unique objects spawned: 4
+
+==================================================
+Analysis complete!

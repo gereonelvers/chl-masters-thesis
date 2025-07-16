@@ -1,0 +1,48 @@
+data,node,box,description,boxtext,tooltips,url,n
+,node4,prevstud,Grey title box; Previous studies,Previous studies,Grey title box; Previous studies,prevstud.html,0
+previous_studies,node5,box1,Studies included in previous version of review,Studies included in previous version of review,Studies included in previous version of review,previous_studies.html,
+previous_reports,,box1,Reports of studies included in previous version of review,Reports of studies included in previous version of review,,previous_reports.html,
+,node6,newstud,Yellow title box; Identification of new studies via databases and registers,Identification of new studies via databases and registers,Yellow title box; Identification of new studies via databases and registers,newstud.html,0
+database_results,node7,box2,Records identified from: Databases,Databases,Records identified from: Databases,database_results.html,2872
+database_specific_results,,box2,Records identified from: specific databases,Specific Databases,,database_results.html,"Scopus, 1839; IEEE Xplore, 522; ACM Digital Library, 511"
+register_results,,box2,,,,,
+register_specific_results,,box2,,,,database_results.html,
+,node16,othstud,,,,othstud.html,
+website_results,node17,box11,,,,website_results.html,
+organisation_results,,box11,,,,,
+citations_results,,box11,,,,,
+duplicates,node8,box3,Duplicate records,Duplicate records,Duplicate records,duplicates.html,283
+excluded_automatic,,box3,Records marked as ineligible by automation tools,Records marked as ineligible by automation tools,,,
+excluded_other,,box3,Records removed for other reasons,Records removed for other reasons,,,
+records_screened,node9,box4,Records screened,Records screened,Records screened,records_screened.html,2533
+records_excluded,node10,box5,Records excluded (databases and registers),Records excluded,Records excluded (databases and registers),records_excluded.html,0
+dbr_sought_reports,node11,box6,Reports sought for retrieval,Reports sought for retrieval,Reports sought for retrieval,dbr_sought_reports.html,2533
+dbr_notretrieved_reports,node12,box7,Reports not retrieved,Reports not retrieved,Reports not retrieved,dbr_notretrieved_reports.html,0
+other_sought_reports,node18,box12,,,,other_sought_reports.html,
+other_notretrieved_reports,node19,box13,,,,other_notretrieved_reports.html,
+dbr_assessed,node13,box8,Reports assessed for eligibility,Reports assessed for eligibility,Reports assessed for eligibility,dbr_assessed.html,2533
+dbr_excluded,node14,box9,"Reports excluded:
+Incorrect timeframe (n = 298)
+Not AR-related (n = 533)
+Not containing collaboration (n = 108)
+Not industry-focussed (n = 617)
+Not peer-reviewed journal article (n = 450)","Reports excluded:
+Incorrect timeframe (n = 298)
+Not AR-related (n = 533)
+Not containing collaboration (n = 108)
+Not industry-focussed (n = 617)
+Not peer-reviewed journal article (n = 450)","Reports excluded:
+Incorrect timeframe (n = 298)
+Not AR-related (n = 533)
+Not containing collaboration (n = 108)
+Not industry-focussed (n = 617)
+Not peer-reviewed journal article (n = 450)",dbrexcludedrecords.html,"Incorrect timeframe, 298; Not AR-related, 533; Not containing collaboration, 108; Not industry-focussed, 617; Not peer-reviewed journal article, 450"
+other_assessed,node20,box14,,,,other_assessed.html,
+other_excluded,node21,box15,,,,other_excluded.html,
+new_studies,node15,box10,New studies included in review,New studies included in review,New studies included in review,new_studies.html,677
+new_reports,,box10,Reports of new included studies,Reports of new included studies,,,0
+total_studies,node22,box16,Total studies included in review,Total studies included in review,Total studies included in review,total_studies.html,
+total_reports,,box16,Reports of total included studies,Reports of total included studies,,,
+identification,node1,identification,Blue identification box,Identification,Blue identification box,identification.html,
+screening,node2,screening,Blue screening box,Screening,Blue screening box,screening.html,
+included,node3,included,Blue included box,Included,Blue included box,included.html,

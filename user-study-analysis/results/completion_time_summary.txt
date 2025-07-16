@@ -1,0 +1,41 @@
+COMPLETION TIME ANALYSIS SUMMARY
+================================
+
+Total runs: 32
+Valid completion times: 32
+Failed/Invalid runs: 0
+
+Overall Statistics:
+Mean: 7.74 minutes
+Median: 6.12 minutes
+Standard deviation: 6.36 minutes
+Range: 1.55 - 29.52 minutes
+
+By Variant:
+            count   mean   std  median
+Variant                               
+Open Ended      8   7.35  2.99    8.08
+Roleplay        8  14.09  9.45   12.94
+Silent          8   5.00  1.95    4.76
+Timed           8   4.52  3.26    3.43
+
+By Environment:
+             count   mean    std  median
+Environment                             
+0                8   7.51   3.35    8.45
+1                8   5.75   3.75    4.85
+2                8  11.62  10.76    6.94
+3                8   6.08   3.64    6.28
+
+By Position in Study:
+                   count  mean   std  median
+Position in study                           
+0                      8  9.61  3.73   10.36
+1                      8  8.25  8.11    4.85
+2                      8  5.17  2.51    5.26
+3                      8  7.93  9.01    5.00
+
+Statistical Tests:
+ANOVA (Variants): F=5.523, p=0.004
+ANOVA (Environments): F=1.508, p=0.234
+ANOVA (Position): F=0.662, p=0.582

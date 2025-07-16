@@ -1,0 +1,37 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="28.0.4">
+  <diagram name="Seite-1" id="y4mzKF0VUfJU5aYXchJr">
+    <mxGraphModel dx="1395" dy="816" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="RhtcuU6G04KMexmZyjtH-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="240" width="410" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="RhtcuU6G04KMexmZyjtH-1" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;Times New Roman&quot;&gt;&lt;b&gt;Introduction&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 17px;&quot; face=&quot;Times New Roman&quot;&gt;Task presentation, consent form, introductory questionnaire, Big 5,&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 17px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;PCS, DTS, IOS&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="40" width="410" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RhtcuU6G04KMexmZyjtH-2" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Familiarisation with system&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 17px;&quot; face=&quot;Times New Roman&quot;&gt;Unstructured, non-collaborative&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;background-color: transparent; font-size: 17px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;familiarisation with headset and system (3 minutes)&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="140" width="410" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RhtcuU6G04KMexmZyjtH-4" value="&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot; face=&quot;Times New Roman&quot;&gt;&lt;b&gt;Joint Task&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;Building of bridge-like structure with partner&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="95.94" y="290" width="377.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RhtcuU6G04KMexmZyjtH-5" value="&lt;div&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 18px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Post-Task Questionnaire&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;NASA TLX + SUS&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="95.94" y="360" width="376.25" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="RhtcuU6G04KMexmZyjtH-7" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Post-Study Questionnaire&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;PCS, DTS,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 17px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;IOS&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80.94" y="460" width="410" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RhtcuU6G04KMexmZyjtH-8" value="&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot; face=&quot;Times New Roman&quot;&gt;&lt;b&gt;Individual Interviews&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;Independent, semi-structured interview&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="79.07" y="560" width="410" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RhtcuU6G04KMexmZyjtH-9" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 18px;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Joint discussion&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 17px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Joint, semi-structured discussion; debrief&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="660" width="410" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RhtcuU6G04KMexmZyjtH-12" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Task Variant (repeated 4x)&lt;/font&gt;&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="123.12" y="250" width="320" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

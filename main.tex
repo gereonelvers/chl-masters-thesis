@@ -1,0 +1,65 @@
+% !TEX root = ./main.tex
+\RequirePackage[l2tabu,orthodox]{nag}
+
+% DONE: decide if one-sided/two-sided
+%\documentclass[headsepline,footsepline,footinclude=false,fontsize=11pt,paper=a4,listof=totoc,bibliography=totoc,BCOR=12mm,DIV=12]{scrbook} % two-sided
+\documentclass[headsepline,footsepline,footinclude=false,oneside,fontsize=11pt,paper=a4,listof=totoc,bibliography=totoc]{scrbook} % one-sided
+
+% DONE: change citation style in settings
+\input{settings}
+
+% DONE: change thesis information
+\newcommand*{\getUniversity}{Technische Universität München}
+\newcommand*{\getFaculty}{School of Computation, Information and Technology }
+%\newcommand*{\getTitle}{Collaborative Dynamics in Augmented Reality: Exploring Co-located Human-to-Human Collaboration Through the Lens of Manual Assembly}
+\newcommand*{\getTitle}{Exploring Dynamics of Human-to-Human Collaboration During Industrial Joint Task Execution Using Augmented Reality}
+\newcommand*{\getTitleGer}{Kollaborative Dynamiken in der erweiterten Realität: Untersuchung synchroner Mensch-Mensch-Zusammenarbeit im Kontext der manuellen Fertigung}
+\newcommand*{\getAuthor}{Gereon Elvers}
+\newcommand*{\getDoctype}{Master Thesis}
+\newcommand*{\getSupervisor}{Prof. Dr.-Ing. habil. Björn Schuller}
+\newcommand*{\getAdvisor}{Dr. Sławomir Tadeja, Dr. Thomas Bohné, Anika Spiesberger}
+\newcommand*{\getSubmissionDate}{July 16th, 2025}
+\newcommand*{\getSubmissionLocation}{Munich}
+
+\begin{document}
+
+% Set page numbering to avoid "destination with the same identifier has been already used" warning for cover page.
+% (see https://en.wikibooks.org/wiki/LaTeX/Hyperlinks#Problems_with_Links_and_Pages).
+\pagenumbering{alph}
+\input{pages/cover}
+\frontmatter{}
+
+\input{pages/title}
+\input{pages/disclaimer}
+\input{pages/abstract}
+
+\listoffigures{}
+\listoftables{}
+\input{pages/abbreviations.tex}
+
+\microtypesetup{protrusion=false}
+\tableofcontents{}
+\microtypesetup{protrusion=true}
+
+\mainmatter{}
+
+\input{chapters/01_introduction}
+\input{chapters/02_background}
+\input{chapters/03_literature}
+\input{chapters/04_artifact_implementation}
+\input{chapters/05_study_design}
+\input{chapters/06_results}
+\input{chapters/07_discussion}
+\input{chapters/08_conclusion_outlook}
+
+
+\appendix{}
+
+\input{pages/appendix}
+
+\microtypesetup{protrusion=false}
+
+\microtypesetup{protrusion=true}
+\printbibliography{}
+
+\end{document}

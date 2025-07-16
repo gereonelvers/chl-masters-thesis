@@ -1,0 +1,21 @@
+STATISTICAL ANALYSIS CORRECTIONS
+===============================
+
+ORIGINAL PROBLEM:
+- One-way ANOVA used: F = 5.523, p = 0.004
+- This is INVALID due to repeated measures (non-independence)
+- Each dyad contributes 4 data points, violating independence assumption
+
+CORRECTED ANALYSIS:
+- Friedman test (repeated measures): χ² = 12.750, p = 0.005
+- Kruskal-Wallis test (robust): H = 10.213, p = 0.017
+- Effect size (eta-squared): 0.372
+- Equal variances assumption: Violated (p = 0.024)
+
+PAIRWISE COMPARISONS (Wilcoxon signed-rank tests):
+Open Ended vs Timed: W = 7, p = 0.148
+Open Ended vs Silent: W = 6, p = 0.109
+Open Ended vs Roleplay: W = 6, p = 0.109
+Timed vs Silent: W = 12, p = 0.461
+Timed vs Roleplay: W = 0, p = 0.008
+Silent vs Roleplay: W = 2, p = 0.023

@@ -1,0 +1,97 @@
+run,variant,quarter,p1_words,p2_words,host_words,total_words
+0,Open Ended,1,233,82,10,325
+0,Open Ended,2,132,155,0,287
+0,Open Ended,3,175,44,0,219
+0,Open Ended,4,96,137,0,233
+1,Timed,1,17,92,65,174
+1,Timed,2,15,25,19,59
+1,Timed,3,6,64,0,70
+1,Timed,4,29,77,0,106
+3,Roleplay,1,292,634,9,935
+3,Roleplay,2,395,481,4,880
+3,Roleplay,3,201,535,23,759
+3,Roleplay,4,129,383,130,642
+4,Timed,1,402,0,0,402
+4,Timed,2,212,0,0,212
+4,Timed,3,188,0,0,188
+4,Timed,4,87,0,0,87
+5,Roleplay,1,383,36,50,469
+5,Roleplay,2,183,77,116,376
+5,Roleplay,3,157,9,29,195
+5,Roleplay,4,175,11,94,280
+6,Open Ended,1,143,108,0,251
+6,Open Ended,2,81,32,62,175
+6,Open Ended,3,58,30,14,102
+6,Open Ended,4,91,110,0,201
+9,Open Ended,1,38,67,0,105
+9,Open Ended,2,39,11,42,92
+9,Open Ended,3,13,45,2,60
+9,Open Ended,4,16,54,0,70
+10,Roleplay,1,68,123,0,191
+10,Roleplay,2,46,23,26,95
+10,Roleplay,3,100,40,0,140
+10,Roleplay,4,46,73,0,119
+11,Timed,1,48,52,0,100
+11,Timed,2,0,79,5,84
+11,Timed,3,0,6,16,22
+11,Timed,4,0,56,0,56
+12,Roleplay,1,0,199,0,199
+12,Roleplay,2,2,186,0,188
+12,Roleplay,3,26,287,0,313
+12,Roleplay,4,52,112,0,164
+14,Timed,1,21,12,0,33
+14,Timed,2,16,0,0,16
+14,Timed,3,4,0,0,4
+14,Timed,4,4,0,0,4
+15,Open Ended,1,9,32,0,41
+15,Open Ended,2,7,16,0,23
+15,Open Ended,3,0,20,0,20
+15,Open Ended,4,0,29,0,29
+16,Open Ended,1,47,50,8,105
+16,Open Ended,2,35,49,14,98
+16,Open Ended,3,7,45,41,93
+16,Open Ended,4,1,37,89,127
+17,Timed,1,1,23,0,24
+17,Timed,2,2,10,14,26
+17,Timed,3,0,0,7,7
+17,Timed,4,13,2,4,19
+19,Roleplay,1,31,32,0,63
+19,Roleplay,2,39,63,0,102
+19,Roleplay,3,26,57,0,83
+19,Roleplay,4,34,22,0,56
+20,Timed,1,14,240,7,261
+20,Timed,2,30,138,44,212
+20,Timed,3,50,83,0,133
+20,Timed,4,7,118,7,132
+21,Roleplay,1,256,452,9,717
+21,Roleplay,2,301,442,20,763
+21,Roleplay,3,177,460,24,661
+21,Roleplay,4,263,517,0,780
+22,Open Ended,1,18,137,20,175
+22,Open Ended,2,0,71,68,139
+22,Open Ended,3,32,140,49,221
+22,Open Ended,4,17,155,31,203
+25,Open Ended,1,74,135,21,230
+25,Open Ended,2,52,73,85,210
+25,Open Ended,3,0,129,9,138
+25,Open Ended,4,0,111,8,119
+26,Roleplay,1,74,32,10,116
+26,Roleplay,2,18,7,79,104
+26,Roleplay,3,6,0,13,19
+26,Roleplay,4,21,60,0,81
+27,Timed,1,23,9,7,39
+27,Timed,2,0,0,1,1
+27,Timed,3,0,0,3,3
+27,Timed,4,50,0,0,50
+28,Roleplay,1,80,163,67,310
+28,Roleplay,2,32,54,99,185
+28,Roleplay,3,20,66,112,198
+28,Roleplay,4,58,28,35,121
+30,Timed,1,5,69,0,74
+30,Timed,2,17,12,0,29
+30,Timed,3,42,0,0,42
+30,Timed,4,23,0,0,23
+31,Open Ended,1,32,34,7,73
+31,Open Ended,2,23,16,64,103
+31,Open Ended,3,11,63,0,74
+31,Open Ended,4,40,35,11,86

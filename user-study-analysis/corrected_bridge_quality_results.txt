@@ -1,0 +1,24 @@
+CORRECTED BRIDGE QUALITY ANALYSIS RESULTS
+==========================================
+
+ORIGINAL PROBLEMS:
+- Used one-way ANOVAs on repeated measures data (independence violation)
+- Ignored dyadic dependencies
+- Did not properly handle failed attempts
+
+CORRECTED METHODS:
+- Friedman tests for repeated measures
+- Fisher's exact test for completion rates
+- Proper effect size calculations
+- Assumption checking
+
+KEY FINDINGS:
+- safety_factor: Friedman χ² = 4.062, p = 0.255
+- von_mises_stress: Friedman χ² = 3.200, p = 0.362
+- displacement: Friedman χ² = 2.288, p = 0.515
+- price: Friedman χ² = 3.120, p = 0.373
+
+COMPLETION RATE ANALYSIS:
+- Timed variant completion rate: 75.0%
+- Other variants completion rate: 100.0%
+- Fisher's exact test: p = 0.056

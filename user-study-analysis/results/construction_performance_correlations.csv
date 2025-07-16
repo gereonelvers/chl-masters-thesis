@@ -1,0 +1,5 @@
+,efficiency_ratio,waste_percentage,total_spawned,"Completion time (exact, minutes)"
+efficiency_ratio,1.0,-1.0,-0.728,-0.192
+waste_percentage,-1.0,1.0,0.728,0.192
+total_spawned,-0.728,0.728,1.0,0.433
+"Completion time (exact, minutes)",-0.192,0.192,0.433,1.0

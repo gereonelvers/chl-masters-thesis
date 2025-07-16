@@ -1,0 +1,104 @@
+{
+  "0": {
+    "speaker": 0,
+    "words": "That's just fine.",
+    "start": 0.061,
+    "end": 0.652
+  },
+  "1": {
+    "speaker": 1,
+    "words": "I guess. That's fine.",
+    "start": 1.444,
+    "end": 4.062
+  },
+  "2": {
+    "speaker": 0,
+    "words": "Well, anyway, that's all.",
+    "start": 4.122,
+    "end": 5.887
+  },
+  "3": {
+    "speaker": 2,
+    "words": "If you could speak up a bit, that'd be awesome.",
+    "start": 5.888,
+    "end": 7.873
+  },
+  "4": {
+    "speaker": 0,
+    "words": "I'm doing it from the left and you're doing it from the other side.",
+    "start": 7.874,
+    "end": 9.998
+  },
+  "5": {
+    "speaker": 1,
+    "words": "I'm doing it from the left as well.",
+    "start": 11.785,
+    "end": 17.675
+  },
+  "6": {
+    "speaker": 0,
+    "words": "Boom, thank you.",
+    "start": 28.953,
+    "end": 34.628
+  },
+  "7": {
+    "speaker": 3,
+    "words": "Hm.",
+    "start": 35.31,
+    "end": 36.044
+  },
+  "8": {
+    "speaker": 0,
+    "words": "No way. So let's do it on the other side.",
+    "start": 36.58,
+    "end": 38.623
+  },
+  "9": {
+    "speaker": 0,
+    "words": "Yes, looks good.",
+    "start": 39.853,
+    "end": 41.444
+  },
+  "10": {
+    "speaker": 0,
+    "words": "Thank you.",
+    "start": 46.758,
+    "end": 47.012
+  },
+  "11": {
+    "speaker": 0,
+    "words": "Let's do.",
+    "start": 50.3,
+    "end": 50.525
+  },
+  "12": {
+    "speaker": 0,
+    "words": "Thank you, no more.",
+    "start": 68.156,
+    "end": 70.998
+  },
+  "13": {
+    "speaker": 2,
+    "words": "All right.",
+    "start": 71.886,
+    "end": 72.541
+  },
+  "14": {
+    "speaker": 3,
+    "words": "Great.",
+    "start": 73.679,
+    "end": 73.844
+  },
+  "16": {
+    "speaker": 2,
+    "words": "If you are done, then hand me back the Hololens headsets.",
+    "start": 83.44,
+    "end": 86.049
+  },
+  "17": {
+    "speaker": 2,
+    "words": "Thank you.",
+    "start": 88.604,
+    "end": 88.932
+  }
+}

@@ -1,0 +1,398 @@
+{
+  "0": {
+    "speaker": 0,
+    "words": "For the press.",
+    "start": 0.121,
+    "end": 0.908
+  },
+  "1": {
+    "speaker": 1,
+    "words": "Thank you.",
+    "start": 1.354,
+    "end": 1.668
+  },
+  "2": {
+    "speaker": 1,
+    "words": "Is the board starting or not? It will be placed once we place the board.",
+    "start": 3.076,
+    "end": 6.63
+  },
+  "3": {
+    "speaker": 1,
+    "words": "I think Channel 8's on.",
+    "start": 8.064,
+    "end": 9.614
+  },
+  "4": {
+    "speaker": 1,
+    "words": "And then",
+    "start": 11.825,
+    "end": 12.509
+  },
+  "5": {
+    "speaker": 2,
+    "words": "Let's maybe rethink our strategy. Are we putting any new bricks? Or are we again sticking to the same strategy.",
+    "start": 12.529,
+    "end": 20.67
+  },
+  "6": {
+    "speaker": 2,
+    "words": "Thank you.",
+    "start": 21.244,
+    "end": 21.52
+  },
+  "7": {
+    "speaker": 1,
+    "words": "Sure, and the camera's good, and if there's another space... Could we use the big one? It would",
+    "start": 21.6,
+    "end": 27.182
+  },
+  "8": {
+    "speaker": 2,
+    "words": "be nice, I guess, because of the L-shape.",
+    "start": 27.284,
+    "end": 29.395
+  },
+  "9": {
+    "speaker": 2,
+    "words": "I was",
+    "start": 34.762,
+    "end": 35.343
+  },
+  "10": {
+    "speaker": 1,
+    "words": "just wondering what you were saying. And I",
+    "start": 35.444,
+    "end": 38.369
+  },
+  "11": {
+    "speaker": 2,
+    "words": "know that from the beginning, so that we have it. I want to try, just.",
+    "start": 38.389,
+    "end": 48.881
+  },
+  "12": {
+    "speaker": 2,
+    "words": "I want to see how over 50 kilos.",
+    "start": 48.882,
+    "end": 50.446
+  },
+  "13": {
+    "speaker": 2,
+    "words": "I would say.",
+    "start": 54.828,
+    "end": 55.309
+  },
+  "14": {
+    "speaker": 3,
+    "words": "We think through the same strategy.",
+    "start": 55.389,
+    "end": 57.029
+  },
+  "15": {
+    "speaker": 3,
+    "words": "And if there's any space left and we see that we're running out of time, we can use the big machines again. Okay, that's good.",
+    "start": 57.83,
+    "end": 66.779
+  },
+  "16": {
+    "speaker": 2,
+    "words": "Wait a second, I think this is...",
+    "start": 66.803,
+    "end": 70.81
+  },
+  "17": {
+    "speaker": 2,
+    "words": "Okay, but the L-shape is also quite cheap. It's also...",
+    "start": 76.073,
+    "end": 80.608
+  },
+  "18": {
+    "speaker": 2,
+    "words": "Thank you. Thank you like we...",
+    "start": 84.045,
+    "end": 86.75
+  },
+  "19": {
+    "speaker": 4,
+    "words": "We are always going on like this. Thank you.",
+    "start": 86.751,
+    "end": 90.468
+  },
+  "20": {
+    "speaker": 2,
+    "words": "That's it, that is a shame. Right.",
+    "start": 92.176,
+    "end": 94.1
+  },
+  "21": {
+    "speaker": 1,
+    "words": "Is the timer now running? If you spawned in the first block, then I'm starting the timer. Okay, you...",
+    "start": 94.161,
+    "end": 99.629
+  },
+  "22": {
+    "speaker": 2,
+    "words": "know what",
+    "start": 99.63,
+    "end": 99.828
+  },
+  "23": {
+    "speaker": 2,
+    "words": "We could do.",
+    "start": 99.829,
+    "end": 100.23
+  },
+  "24": {
+    "speaker": 2,
+    "words": "So the",
+    "start": 100.488,
+    "end": 100.808
+  },
+  "25": {
+    "speaker": 1,
+    "words": "Timer is running now. It's running? Yeah. Oh, got it. And I",
+    "start": 100.809,
+    "end": 105.816
+  },
+  "26": {
+    "speaker": 2,
+    "words": "I'll keep looking. Thank you.",
+    "start": 105.957,
+    "end": 112.073
+  },
+  "27": {
+    "speaker": 2,
+    "words": "Yeah, now we need to put it up here.",
+    "start": 115.477,
+    "end": 117.362
+  },
+  "28": {
+    "speaker": 2,
+    "words": "Can you try to put a pin on this?",
+    "start": 138.144,
+    "end": 139.45
+  },
+  "29": {
+    "speaker": 2,
+    "words": "Thank you. Thank you. Thanks.",
+    "start": 142.684,
+    "end": 145.746
+  },
+  "30": {
+    "speaker": 2,
+    "words": "Well, what should this be? Maybe.",
+    "start": 156.343,
+    "end": 157.267
+  },
+  "31": {
+    "speaker": 2,
+    "words": "Thank you.",
+    "start": 158.556,
+    "end": 158.98
+  },
+  "32": {
+    "speaker": 2,
+    "words": "Directly, direct it.",
+    "start": 159.648,
+    "end": 160.513
+  },
+  "33": {
+    "speaker": 0,
+    "words": "to the",
+    "start": 160.514,
+    "end": 160.694
+  },
+  "34": {
+    "speaker": 2,
+    "words": "chair.",
+    "start": 160.734,
+    "end": 160.954
+  },
+  "35": {
+    "speaker": 2,
+    "words": "Oh, it's already.",
+    "start": 164.425,
+    "end": 165.032
+  },
+  "36": {
+    "speaker": 0,
+    "words": "short.",
+    "start": 165.093,
+    "end": 165.376
+  },
+  "37": {
+    "speaker": 0,
+    "words": "Okay.",
+    "start": 168.432,
+    "end": 168.654
+  },
+  "38": {
+    "speaker": 2,
+    "words": "Like that? Yeah, just still.",
+    "start": 173.132,
+    "end": 175.419
+  },
+  "39": {
+    "speaker": 0,
+    "words": "The other way.",
+    "start": 177.328,
+    "end": 177.813
+  },
+  "40": {
+    "speaker": 0,
+    "words": "Okay, boys.",
+    "start": 184.612,
+    "end": 185.155
+  },
+  "41": {
+    "speaker": 0,
+    "words": "Thank you.",
+    "start": 216.188,
+    "end": 216.42
+  },
+  "42": {
+    "speaker": 2,
+    "words": "Thank you.",
+    "start": 216.604,
+    "end": 216.836
+  },
+  "43": {
+    "speaker": 2,
+    "words": "Thank you.",
+    "start": 244.092,
+    "end": 244.388
+  },
+  "44": {
+    "speaker": 2,
+    "words": "Thank you.",
+    "start": 245.981,
+    "end": 246.308
+  },
+  "45": {
+    "speaker": 2,
+    "words": "Thank you.",
+    "start": 247.996,
+    "end": 248.356
+  },
+  "46": {
+    "speaker": 0,
+    "words": "Thank you.",
+    "start": 249.884,
+    "end": 250.148
+  },
+  "47": {
+    "speaker": 0,
+    "words": "No! Thanks.",
+    "start": 255.044,
+    "end": 255.707
+  },
+  "48": {
+    "speaker": 0,
+    "words": "Thank you. Thank you.",
+    "start": 267.356,
+    "end": 269.124
+  },
+  "49": {
+    "speaker": 0,
+    "words": "Looks stable, but it",
+    "start": 271.864,
+    "end": 273.676
+  },
+  "50": {
+    "speaker": 4,
+    "words": "is on the edge.",
+    "start": 273.677,
+    "end": 274.661
+  },
+  "51": {
+    "speaker": 0,
+    "words": "Tchau, pessoal.",
+    "start": 7.396,
+    "end": 7.963
+  },
+  "52": {
+    "speaker": 0,
+    "words": "Et c'est ça que nous, on va laisser.",
+    "start": 124.757,
+    "end": 126.247
+  },
+  "53": {
+    "speaker": 0,
+    "words": "Sena, espera.",
+    "start": 264.877,
+    "end": 265.929
+  },
+  "54": {
+    "speaker": 0,
+    "words": "Here, so we put one more dot on it. What did we do? We don't have that one. I see it, and so we put one.",
+    "start": 274.763,
+    "end": 291.005
+  },
+  "55": {
+    "speaker": 2,
+    "words": "Thank you. Thank you.",
+    "start": 299.292,
+    "end": 299.777
+  },
+  "56": {
+    "speaker": 4,
+    "words": "Thank you. Yes, probably.",
+    "start": 306.429,
+    "end": 307.637
+  },
+  "57": {
+    "speaker": 4,
+    "words": "Thank you. Thank you.",
+    "start": 324.129,
+    "end": 326.021
+  },
+  "58": {
+    "speaker": 0,
+    "words": "Can we just have some food?",
+    "start": 332.39,
+    "end": 334.375
+  },
+  "59": {
+    "speaker": 0,
+    "words": "Thank you. Thank you.",
+    "start": 344.061,
+    "end": 344.848
+  },
+  "60": {
+    "speaker": 0,
+    "words": "Thank you.",
+    "start": 350.867,
+    "end": 351.815
+  },
+  "61": {
+    "speaker": 0,
+    "words": "Thank you.",
+    "start": 362.542,
+    "end": 363.173
+  },
+  "62": {
+    "speaker": 4,
+    "words": "Vielen Dank.",
+    "start": 363.606,
+    "end": 364.891
+  },
+  "63": {
+    "speaker": 0,
+    "words": "No, she should have another one.",
+    "start": 375.85,
+    "end": 378.621
+  },
+  "64": {
+    "speaker": 0,
+    "words": "Okay.",
+    "start": 391.67,
+    "end": 392.778
+  },
+  "65": {
+    "speaker": 0,
+    "words": "I'll stop.",
+    "start": 398.447,
+    "end": 398.839
+  }
+}

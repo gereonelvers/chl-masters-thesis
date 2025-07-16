@@ -1,0 +1,11 @@
+newmtl big-cube-material-dark
+Kd 0.2 0.2 0.2
+map_Kd C:\CHL\chl-2\chl-1\Assets\CHL\grid-texture.png
+
+newmtl small-cube-material(Clone)
+Kd 1 1 1
+
+newmtl plank-material(Clone)
+Kd 1 1 1
+map_Kd C:\CHL\chl-2\chl-1\Assets\CHL\grid-texture.png
+

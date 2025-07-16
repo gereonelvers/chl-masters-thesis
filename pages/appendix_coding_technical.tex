@@ -1,0 +1,96 @@
+\section{Technical Implementation}
+\label{appendix:technical-implementation}
+
+Table~\ref{tab:coding-technical-implementation} presents the systematic coding of technical implementation aspects across all 33 papers. This coding sheet addresses RQ2 by examining hardware platforms, software architectures, technical challenges, and resilience strategies employed in collaborative AR systems.
+
+\afterpage{
+\clearpage
+\begin{landscape}
+\tiny
+\begin{longtable}{@{}p{1.8cm}p{1.8cm}p{1.8cm}p{1.8cm}p{1.8cm}p{1.8cm}p{1.8cm}p{1.8cm}@{}}
+\caption{Coding sheet for Technical Implementation (RQ2)} \label{tab:coding-technical-implementation} \\
+\toprule
+\textbf{Paper} & \textbf{Hardware} & \textbf{Software and Tracking} & \textbf{Communication Latency} & \textbf{Field of View Limitations} & \textbf{Environmental Constraints} & \textbf{Error Sources} & \textbf{Resilience Strategies} \\
+\midrule
+\endfirsthead
+
+\caption[]{Coding sheet for Technical Implementation (RQ2) (continued)} \\
+\toprule
+\textbf{Paper} & \textbf{Hardware} & \textbf{Software and Tracking} & \textbf{Communication Latency} & \textbf{Field of View Limitations} & \textbf{Environmental Constraints} & \textbf{Error Sources} & \textbf{Resilience Strategies} \\
+\midrule
+\endhead
+
+\midrule
+\multicolumn{8}{r}{\textit{Continued on next page}} \\
+\endfoot
+
+\bottomrule
+\endlastfoot
+
+Aschenbrenner et al. (2018) & Microsoft HoloLens, desktop interface & Custom HoloLens app, synchronized views & Low latency required for precision & Limited HoloLens FOV restricts workspace visibility & Lighting and space calibration critical & Object misalignment, real-time lag & Miniaturized views, enhanced spatial visualization \\
+\midrule
+Aschenbrenner et al. (2019) & Microsoft HoloLens, tablets, projection-based SAR & Metaio SDK, Android app & Low latency for visual alignment & Limited HoloLens FOV, projection-based superior coverage & Ambient lighting critical for projection & Collaborative task errors minimized with visual context & Projection-based AR minimized latency issues \\
+\midrule
+Betti et al. (2018) & Microsoft HoloLens, ABB 1200 robotic arm & Grasshopper and Python pipeline & Low latency critical for synchronization & Sensor inaccuracies in bright lighting & High lighting variability affected tracking & Sensor misinterpretation due to sun glare & Real-time feedback on interaction \\
+\midrule
+Buyruk and Çağdaş (2022) & HoloLens 2, Kuka KR210 robotic arm & Grasshopper3D, REST API with Unity & Low latency, near-instant updates & MR visuals enabled real-time overlay & Requires controlled lighting and calibration & Occasional robotic execution misalignments & Digital twin provided instant feedback \\
+\midrule
+Chan et al. (2022) & HoloLens, KUKA IIWA LBR14 & ROS Bridge, MoveIt library & Low latency for synchronized interaction & HoloLens drift affecting marker alignment & Speech recognition challenges in noise & AR tracking drift, marker misalignment & Positional recalibration via gaze \\
+\midrule
+Cogurcu et al. (2023) & Microsoft HoloLens 2, UR10 robot & Unity3D and ROS & Wi-Fi latency, additional safety layers & AR marker alignment drift & Network and tracking discrepancies & Safety zone misalignments due to drift & Recalibration prompts, digital twin synchronization \\
+\midrule
+De Franco et al. (2019) & Microsoft HoloLens, ROS-based Panda & Double-channel UDP, Unity3D, ROS & Low latency for synchronized updates & Voice commands affected by noise & Speech challenges in noisy environments & Voice misrecognition, hologram misalignment & Gesture-based commands as backup \\
+\midrule
+Fang et al. (2022) & Microsoft HoloLens 2, ROS-based mobile robot & Visual-inertial SLAM, ROS localization & Managed through visual-inertial SLAM & High accuracy 3D model alignment required & Large industrial spaces, dynamic conditions & Drift in visual tracking & Incremental triangulation reduces drift \\
+\midrule
+Gemito et al. (2023) & Microsoft HoloLens 2, FIWARE and ROS2 & Unity MRTK, Holographic Remoting & Holographic Remoting provided real-time visualization & Requires precise calibration & Variable lighting can impact visibility & Calibration issues, real-time misalignment & Holographic safety barrier reduces risk \\
+\midrule
+Goepel and Crolla (2020) & Microsoft HoloLens, smartphones & Anemone plugin in Rhino & Managed through unified overlays & Flexible calibration for material irregularities & Natural variability of bamboo & Material variations, AR markers misaligned & Adaptable guidance, procedural modeling \\
+\midrule
+Gursch et al. (2018) & AR and VR devices & EIS for real-time updates & Real-time data processing & Not explicitly addressed & Efficient scheduling adaptation & Potential for information overload & Adaptive filtering based on eye-tracking \\
+\midrule
+Huy et al. (2017) & Epson Moverio BT-200, MAVEN robot & Marker-based tracking, laser-projected SAR & Real-time synchronization & Laser-writer improves outdoor visibility & Laser visibility in bright environments & AR marker misalignment & Gestures and haptic inputs allow adjustments \\
+\midrule
+Liu et al. (2018) & Microsoft HoloLens, Vuforia markers & Unity3D, Vuforia markers & Real-time synchronization maintained & Marker-based tracking, lighting influences & Flexible with markers, lighting impacts & Tracking inaccuracies in varying lighting & Conflict management, marker relocation \\
+\midrule
+Liu et al. (2022) & Wearable AR devices, Digital Twin & Digital Twins, Knowledge Graph & Real-time synchronization & Marker-based tracking enables alignment & Optimized for variable lighting & Assembly misalignments & Dynamic tolerance allocation \\
+\midrule
+Lotsaris et al. (2021) & Microsoft HoloLens, ROS-based platform & Digital Twin, QR code calibration & Real-time updates for robot interaction & Flexible to lighting variations & Complex task environments & Tracking issues with QR codes & Direct robot control, safety monitoring \\
+\midrule
+Lu et al. (2021) & Microsoft HoloLens, desktop PC & VRML for 3D models, YOLOv2 & Real-time data synchronization & VRML-based, performance-optimized & Adaptable to lighting conditions & Interaction conflicts in multi-user & VRML model optimizations \\
+\midrule
+Martins et al. (2024) & Microsoft HoloLens 2, ROS Noetic & ROS navigation, Map Frame Matcher & Wi-Fi communication, low latency & QR code-based alignment & Scalability limits with port-based communication & Possible alignment drift & Real-time updates, safety zones \\
+\midrule
+Michalos et al. (2018) & Epson Moverio, Motorola Moto 360 & ROS-based architecture, SafetyEye 3D & Real-time Wi-Fi updates & SafetyEye dynamic zones & Adaptable warning/danger zones & Potential AR-based guidance missteps & SafetyEye dynamic zones, emergency stop \\
+\midrule
+Mourtzis et al. (2021) & Microsoft HoloLens, cloud-based MR & Voxel-based modeling, CNN & Real-time cloud synchronization & Stable MR rendering & Efficient voxel modeling for AM & Misalignment mitigated by algorithms & Cloud-based recovery, voxel modeling \\
+\midrule
+Otto et al. (2016) & Powerwalls, Microsoft PixelSense & VRPN and ARVIDA protocols & Real-time visualization & Large-scale, true-to-scale displays & Optimized for industrial environments & Misalignment in spatial projection & Layered physical-virtual feedback \\
+\midrule
+Putri et al. (2024) & AR headsets, wearable sensors & IoT-enabled wearables & Immediate alerts for hazard prevention & User-centered AR, minimal distraction & High-noise, high-hazard manufacturing & Potential alert saturation & Wearable alerts, real-time visual cues \\
+\midrule
+Reis et al. (2021) & HTC Vive, Microsoft HoloLens & Unity engine, VRPN & Real-time data access from digital twin & AR limited by model size & High-risk FPSO settings & Potential for spatial lag & Safety zones, error correction \\
+\midrule
+Restas et al. (2024) & Web VR, Mobile AR, HoloLens & Unity-based with API integration & Real-time cross-device synchronization & Web VR and HoloLens adapted & Flexible across platforms & Potential sync lag & API integration, real-time updates \\
+\midrule
+Rogeau and Rezaei Rad (2024) & Microsoft HoloLens 2, ABB 6400 & Grasshopper, Rhinoceros, Python & Real-time updates for task guidance & Holographic projection for adjustments & Variable workspace conditions & Potential alignment drift & Task allocation, AR support \\
+\midrule
+Rubart et al. (2022) & Microsoft HoloLens 2, tablets & Unity, MRTK, OPC UA protocol & Real-time data and alert syncing & AR provides mobile data access & Static and mobile control rooms & Tracking errors in dynamic environments & Multimodal inputs, shared annotations \\
+\midrule
+Schmidt et al. (2022) & Microsoft HoloLens 2 & Unity, MRTK, MQTT & Real-time synchronization via MQTT & HoloLens for real-time feedback & Dynamic robotic cell environments & Tracking errors in dynamic setup & Task-specific visual alerts \\
+\midrule
+Stacchio et al. (2023) & Microsoft HoloLens 2 & Unity, MRTK, REST API & Minimal, asynchronous updates & MR interface optimized for documents & Assembly environments & Annotation management errors & Asynchronous annotation sharing \\
+\midrule
+Verlinden and Bekker (2017) & Microsoft HoloLens & 3D scanning, WAAM scorecards & Real-time data and design sync & Large-scale outdoor visualization & Outdoor-ready with 3D scans & Model misalignment in dynamic conditions & Material efficiency data, real-time feedback \\
+\midrule
+Vidal-Balea et al. (2020) & Microsoft HoloLens & Unity, custom UDP-TCP protocol & Low latency, delays below 5 ms & Large-scale assembly adaptation & Shipyard-ready, 5 GHz WiFi & Potential sync delays & Anchor synchronization, packet redundancy \\
+\midrule
+Wang et al. (2022) - Cross-platform & Microsoft HoloLens 2 & Unity, custom UDP-TCP & Low latency, asynchronous updates & Large shipyard spaces & Metal-dense, large-scale shipyards & Desync or misalignment & Multi-device sync, cloud redundancy \\
+\midrule
+Wang et al. (2022) - Multi-person & Microsoft HoloLens 2, Azure Kinect & Unity, marker-based alignment & Low latency, real-time sync & Spatial manipulation optimization & Precision-focused, stable alignment & Desync in role-based tasks & Synchronized multi-user environment \\
+
+Yang et al. (2023) & Microsoft HoloLens 2, Surface Pro & Unity, VIZOR, ROS backend & Low latency, real-time synchronization & Large timber structures & Prefabrication sites & Task misalignment & Task prompts, role-specific coordination \\
+\end{longtable}
+\end{landscape}
+\clearpage
+} 

@@ -1,0 +1,5 @@
+Variant,efficiency_ratio_mean,efficiency_ratio_std,efficiency_ratio_count,waste_percentage_mean,waste_percentage_std,total_spawned_mean,total_spawned_std,"# objects (final bridge, start block incl.)_mean","# objects (final bridge, start block incl.)_std"
+Open Ended,0.478,0.113,8,52.205,11.331,22.25,10.292,10.125,4.643
+Roleplay,0.524,0.259,8,47.586,25.932,26.25,10.833,11.625,4.069
+Silent,0.638,0.323,8,36.16,32.341,19.0,9.502,10.0,1.927
+Timed,0.81,0.335,6,18.953,33.475,11.667,3.615,8.5,1.225

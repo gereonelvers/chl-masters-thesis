@@ -1,0 +1,33 @@
+﻿Run #,Participant 1 ID,Participant 2 ID,Variant,Environment,Position in study,"Completion time (exact, minutes)",Spawned objects,# different objects (spawned),"# objects (final bridge, start block incl.)",# different objects (final bridge),Participant 1 distance (meter),Participant 2 distance (meter),Bridge Price,"Bridge height (max., cm)","Bridge evaluation 1: Safety Factor (min, higher better)","Bridge Evaluation 2: von Mises Stress (max, in MPa, smaller better)","Bridge evaluation 3: Displacement (max, in mm, smaller better)",Notes
+0,SAKl2Kyg,jFYQhuSp,Open Ended,0,0,9:43,"BigTShape ×6, Cube ×5, Plank ×9, SmallCube ×1",4,9,2,21.22,12.65,80,30,13.176,15.711,0.0550,
+1,SAKl2Kyg,jFYQhuSp,Timed,1,1,4:35,"BigTShape ×1, Cube ×5, Plank ×4, SmallCube ×1",4,9,2,27.09,40.52,80,30,5.916,34.991,0.15,Timer starts after 2:07 minutes
+2,SAKl2Kyg,jFYQhuSp,Silent,3,2,6:39,"Cube ×4, Plank ×18, SmallCube ×3",3,9,2,23.82,25.57,80,30,7.512,27.555,0.08,
+3,SAKl2Kyg,jFYQhuSp,Roleplay,2,3,29:31,"Cube ×5, LShape ×1, Plank ×6, SmallCube ×9",4,17,3,123.03,186.48,61,30,13.274,15.595,0.031,Cut short due to tech issues
+4,6m7xtdFy,kHxWHBLy,Timed,1,0,11:00,"LShape ×3, SmallCube ×27, TShape ×12",3,INVALID,INVALID,147.87,135.91,INVALID,INVALID,INVALID,INVALID,INVALID,Timer starts after 6:00 minutes. Participants failed to construct bridge in time
+5,6m7xtdFy,kHxWHBLy,Roleplay,3,1,13:10,"SmallCube ×9, TShape ×21",2,11,2,126.35,21.65,15,20,15,4.326,0.006,
+6,6m7xtdFy,kHxWHBLy,Open Ended,2,2,08:17,"BigLShape ×3, SmallCube ×3, TShape ×24",3,9,1,86.62,101.45,14,20,15,3.808,0.005,
+7,6m7xtdFy,kHxWHBLy,Silent,0,3,04:24,TShape ×21,1,9,1,70.12,15.14,14,20,15,3.608,0.007,
+8,YeUp7E4D,WzyEiaaj,Silent,3,0,08:16,"BigTShape ×2, Cube ×2, Plank ×2, SmallCube ×12, TShape ×20",5,14,2,101.35,98.88,18,30,0.488,424.138,8032961,
+9,YeUp7E4D,WzyEiaaj,Open Ended,2,1,02:52,"BigTShape ×2, LShape ×4, Plank ×6, TShape ×8",4,11,3,39.79,12.31,42,30,13.941,14.848,0.04,
+10,YeUp7E4D,WzyEiaaj,Roleplay,0,2,03:52,"LShape ×6, Plank ×2, TShape ×4",3,8,2,70.09,74.22,14,30,15,0,3.448E-08,
+11,YeUp7E4D,WzyEiaaj,Timed,1,3,02:17,LShape ×14,1,9,2,29.09,61.20,14,20,15,0.00011661,1.014E-08,timer starts after 01:08min (timestamp 05:03)
+12,OYYOwkG2,dckk6p6S,Roleplay,2,0,14:33,"BigTShape ×2, Cube ×16, LShape ×2, Plank ×12, SmallCube ×6, TShape ×2",6,10,4,328.93,186.35,43,30,15,3.45,0.003,
+13,OYYOwkG2,dckk6p6S,Silent,0,1,03:14,"BigTShape ×2, Plank ×12, SmallCube ×4",3,8,2,46.47,19.18,42,20,15,"1,202",1.000,
+14,OYYOwkG2,dckk6p6S,Timed,1,2,01:33,Plank ×14,1,6,1,38.61,41.36,40,20,15,"1,212",1.000,
+15,OYYOwkG2,dckk6p6S,Open Ended,3,3,03:52,SmallCube ×42,1,21,1,51.13,14.85,19,10,15,1.238,0.0005593,
+16,kDp3Cy37,wocE408P,Open Ended,1,0,11:35,"BigLShape ×2, BigTShape ×6, Cube ×8, Plank ×10",4,9,2,163.90,136.33,64,30,0.881,234.987,11015.805,
+17,kDp3Cy37,wocE408P,Timed,3,1,01:55,"Cube ×8, Plank ×8",2,9,2,16.41,23.63,64,30,5.837,35.466,0.365,timer starts after 00:44 min (timestamp 05:34)
+18,kDp3Cy37,wocE408P,Silent,2,2,02:55,"Cube ×8, Plank ×10",2,11,2,52.76,58.31,82,40,4.936,41.934,0.071,
+19,kDp3Cy37,wocE408P,Roleplay,0,3,09:13,"Cube ×8, Plank ×20, SmallCube ×4",3,9,2,21.37,12.93,64,30,3.451,59.978,0.606,
+20,Oa3Qww1v,zIDJJG4M,Timed,3,0,05:54,"BigLShape ×1, Cube ×1, Plank ×4, TShape ×2",4,9,3,54.26,73.86,52,30,6.287,32.926,0.145,timer starts after 03:14 min (timestamp 18:24)
+21,Oa3Qww1v,zIDJJG4M,Roleplay,2,1,26:06,"Cube ×5, Plank ×7, SmallCube ×15, TShape ×3",4,19,3,261.77,220.93,94,30,15,20.266,0.016,
+22,Oa3Qww1v,zIDJJG4M,Open Ended,0,2,07:53,"BigLShape ×3, BigTShape ×3, Cube ×4, Plank ×5, TShape ×1",5,9,3,111.51,154.85,140,50,15,10.22,0.032,
+23,Oa3Qww1v,zIDJJG4M,Silent,1,3,06:20,"Cube ×2, Plank ×5, SmallCube ×2, TShape ×4",4,9,2,134.00,33.74,54,30,6.177,33.51,0.018,
+24,uTSV9lZx,iB6kR2uo,Silent,2,0,03:07,"BigLShape ×3, Cube ×2, Plank ×2",3,9,3,27.76,33.60,186,40,9.907,20.895,0.137,
+25,uTSV9lZx,iB6kR2uo,Open Ended,0,1,09:01,"BigLShape ×4, BigTShape ×3, LShape ×4, Plank ×1",4,6,2,98.11,117.78,20,40,8.934,23.169,0.168,
+26,uTSV9lZx,iB6kR2uo,Roleplay,1,2,03:33,"Cube ×4, Plank ×5, SmallCube ×1",3,9,2,58.14,81.52,64,30,12.916,16.026,0.044,
+27,uTSV9lZx,iB6kR2uo,Timed,3,3,02:15,"Cube ×3, Plank ×4",2,9,2,34.76,14.76,64,30,15,11.233,0.014,timer starts after 00:25 min (timestamp 07:24)
+28,j7hHkgiC,iN9X5S4Q,Roleplay,0,0,12:43,"Cube ×6, LShape ×2, Plank ×7, SmallCube ×14, TShape ×6",5,10,2,223.63,59.96,48,30,8.918,23.212,0.045,
+29,j7hHkgiC,iN9X5S4Q,Silent,1,1,05:07,"BigTShape ×3, Plank ×5, TShape ×4",3,11,3,70.15,75.95,98,50,2.613,79.223,0.094,
+30,j7hHkgiC,iN9X5S4Q,Timed,3,2,06:39,"LShape ×2, Plank ×5, SmallCube ×2, TShape ×4",4,INVALID,INVALID,136.57,120.94,INVALID,INVALID,INVALID,INVALID,INVALID,timer starts after  (timestamp 05:14). Participants failed to construct bridge in time.
+31,j7hHkgiC,iN9X5S4Q,Open Ended,2,3,05:36,"BigTShape ×2, Plank ×3, SmallCube ×3, TShape ×3",4,7,3,56.95,60.13,122,50,5.674,36.483,0.081,

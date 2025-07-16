@@ -1,0 +1,20 @@
+IMPROVED STATISTICAL ANALYSIS RESULTS
+====================================
+
+PROBLEMS WITH ORIGINAL ANALYSIS:
+- Used one-way ANOVA on repeated measures data (violates independence)
+- Ignored dyadic dependencies
+- Did not check assumptions
+- Did not calculate appropriate effect sizes
+
+IMPROVED METHODS USED:
+- Mixed-effects models for repeated measures
+- Non-parametric tests for non-normal data
+- Robust regression for outlier resistance
+- Proper effect size calculations
+- Bootstrap confidence intervals
+
+SUMMARY FINDINGS:
+- Kruskal-Wallis test: H = 10.213, p = 0.017
+- Overall effect size (η²): 0.372
+- Levene's test for equal variances: p = 0.024

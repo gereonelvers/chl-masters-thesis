@@ -1,0 +1,37 @@
+% Bridge Quality Analysis Tables
+
+\begin{table}[htbp]
+\centering
+\caption{Descriptive Statistics for Bridge Quality Metrics}
+\label{tab:bridge_quality_overall}
+\begin{tabular}{lrrrrrr}
+\toprule
+Metric & N & Mean & SD & Median & Min & Max \\
+\midrule
+Safety Factor & 30 & 10.36 & 5.01 & 13.05 & 0.49 & 15.00 \\
+von Mises Stress (MPa) & 30 & 121.43 & 306.71 & 22.03 & 0.00 & 1212.00 \\
+Displacement (mm) & 30 & 268132.70 & 1466543.31 & 0.05 & 0.00 & 8032961.00 \\
+Price & 30 & 59.73 & 40.51 & 57.50 & 14.00 & 186.00 \\
+Height (cm) & 30 & 30.33 & 9.28 & 30.00 & 10.00 & 50.00 \\
+Total Objects & 30 & 10.17 & 3.39 & 9.00 & 6.00 & 21.00 \\
+Different Objects & 30 & 2.20 & 0.71 & 2.00 & 1.00 & 4.00 \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\begin{table}[htbp]
+\centering
+\caption{One-Way ANOVA Results for Bridge Quality Metrics by Collaboration Variant}
+\label{tab:anova_bridge_quality}
+\begin{tabular}{lrrrrrl}
+\toprule
+Metric & F & df1 & df2 & p & $\eta^2$ & Significance \\
+\midrule
+Safety Factor & 1.225 & 3 & 26 & 0.320 & 0.124 & ns \\
+Von Mises Stress & 1.023 & 3 & 26 & 0.399 & 0.106 & ns \\
+Displacement & 0.907 & 3 & 26 & 0.451 & 0.095 & ns \\
+Price & 0.430 & 3 & 26 & 0.733 & 0.047 & ns \\
+\bottomrule
+\end{tabular}
+\end{table}
+

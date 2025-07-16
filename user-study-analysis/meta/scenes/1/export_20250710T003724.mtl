@@ -1,0 +1,8 @@
+newmtl big-cube-material-dark
+Kd 0.2 0.2 0.2
+map_Kd C:\CHL\chl-2\chl-1\Assets\CHL\grid-texture.png
+
+newmtl MRTK_Standard_TransparentRed
+Kd 1 0 0
+d 0.5019608
+
